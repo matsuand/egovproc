@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="059" Year="16" PromulgateMonth="03" PromulgateDay="31">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしぎょうせいひょうかじょうれい" Abbrev="" AbbrevKana="">神戸市行政評価条例</LawTitle>
+    <TOC>
+      <TOCLabel>条項目次</TOCLabel>
+      <TOCSection Num="1">
+        <SectionTitle>本則</SectionTitle>
+        <TOCArticle Num="1">
+          <ArticleTitle>第1条(目的)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="2">
+          <ArticleTitle>第2条(定義)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="3">
+          <ArticleTitle>第3条(行政評価の基本的な方針)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="4">
+          <ArticleTitle>第4条(行政評価の実施)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="5">
+          <ArticleTitle>第5条(外部評価委員会)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="6">
+          <ArticleTitle>第6条(結果の公表等)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="7">
+          <ArticleTitle>第7条(市長の調整)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="8">
+          <ArticleTitle>第8条(出資法人の大規模の建設事業に係る評価)</ArticleTitle>
+        </TOCArticle>
+      </TOCSection>
+      <TOCSection Num="2">
+        <SectionTitle>附則</SectionTitle>
+      </TOCSection>
+      <TOCSection Num="3">
+        <SectionTitle>附則(平成24年3月30日条例第22号)</SectionTitle>
+      </TOCSection>
+    </TOC>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、施策及び事務事業に係る行政評価並びにこれに関連する事項について必要な事項を定めることにより、市民の視点に立って成果を検証し、市民への説明を行うとともに、効果的かつ効率的な市政を推進することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">行政評価　第4条第1項及び第2項に規定する評価をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">施策　市の基本方針を実現するための個々の方策をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">事務事業　施策を実現するための手段として実施される個々の具体的な行政活動をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">実施機関　市長、公営企業管理者、消防長、教育委員会、選挙管理委員会、人事委員会、監査委員、農業委員会及び固定資産評価審査委員会をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（行政評価の基本的な方針）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、市民の行政需要及び市民生活への効果を把握するとともに、これらを基礎として、必要な観点から客観的に行政評価を実施するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、行政評価の結果を、市の基本方針並びに施策及び事務事業の質の向上及び効率化のために活用するとともに、市の基本方針に反映させるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、行政評価に関する情報を随時公表し、市民への説明を行い、その公正の確保及び透明性の向上を図るものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（行政評価の実施）</ArticleCaption>
+        <ArticleTitle>第4条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、時代への適合性、他の主体との補完の可能性、効率性、有効性その他必要な観点により、施策及び事務事業の評価を実施するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項に定めるもののほか、大規模の建設事業のうち規則で定めるものの評価にあっては、事業の必要性、進捗の見込みその他必要な観点により実施するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">施策の評価を実施するに際しては、施策の成果の把握、施策に対する市民の意識に関する情報の把握等に努めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（外部評価委員会）</ArticleCaption>
+        <ArticleTitle>第5条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長の附属機関として、次の各号に掲げる委員会(以下「委員会」という。)を置き、市長の諮問に応じ当該各号に定める事項を調査審議させる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">施策外部評価委員会　前条第1項の施策の評価に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">事務事業外部評価委員会　前条第1項の事務事業の評価に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">建設事業外部評価委員会　前条第2項の評価に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">委員会は、それぞれ委員10人以内で組織する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">委員は、市政に関し優れた識見を有する者又は学識経験者のうちから、市長が委嘱する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>4</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">委員の任期は、1年とする。ただし、再任を妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>5</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">委員が欠けた場合における補欠委員の任期は、前任者の残任期間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>6</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">特別の事項を調査審議させるため必要があるときは、委員会に臨時委員を置くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>7</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">臨時委員は、第3項に規定する者のうちから、市長が委嘱する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>8</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">臨時委員は、その者の委嘱に係る当該特別の事項に関する調査審議が終了したときは、解嘱されるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>9</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前各項に定めるもののほか、委員会の組織及び運営に関し必要な事項は、規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（結果の公表等）</ArticleCaption>
+        <ArticleTitle>第6条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、行政評価を実施したときは、その結果を速やかに公表するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市民は、行政評価の制度、結果その他の事項について、実施機関に意見を述べることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、前項の意見を考慮して、必要と認める措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（市長の調整）</ArticleCaption>
+        <ArticleTitle>第7条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、他の実施機関に対し、行政評価に関し、報告を求め、又は助言を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（出資法人の大規模の建設事業に係る評価）</ArticleCaption>
+        <ArticleTitle>第8条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市が基本金その他これらに準ずるものを出資している法人で規則で定めるもの(以下「出資法人」という。)は、神戸市民の意見提出手続に関する条例(平成16年3月条例第57号)第2条第4号ウに規定する規則で定める大規模の建設事業の評価について、この条例の趣旨にのっとり、必要な措置を講ずるよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">実施機関は、出資法人に対し、前項に規定する措置を講ずるために必要な指導及び助言を行うよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphSentence>
+          <Sentence Num="1">この条例は、平成16年4月1日から施行する。ただし、第8条の規定は同年10月1日から、第5条の規定は規則で定める日から施行する。</Sentence>
+          <Sentence Num="2">(平成16年4月16日規則第5号により第5条の規定は平成16年4月19日から施行)</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成24年3月30日条例第22号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphSentence>
+          <Sentence Num="1">この条例は、平成24年4月1日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
