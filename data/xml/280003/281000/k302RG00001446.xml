@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="059" Year="16" PromulgateMonth="03" PromulgateDay="31">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしぽいすておよびろじょうきつえんのぼうしにかんするじょうれい" Abbrev="" AbbrevKana="">神戸市ぽい捨て及び路上喫煙の防止に関する条例</LawTitle>
+    <EnactStatement>平成24年6月29日 条例第4号</EnactStatement>
+    <EnactStatement>神戸市たばこの吸い殻及び空き缶等の投げ捨ての防止等に関する条例(平成9年4月条例第8号)の全部を改正する。</EnactStatement>
+    <TOC>
+      <TOCLabel>条項目次</TOCLabel>
+      <TOCSection Num="1">
+        <SectionTitle>本則</SectionTitle>
+        <TOCArticle Num="1">
+          <ArticleTitle>第1条(目的)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="2">
+          <ArticleTitle>第2条(定義)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="3">
+          <ArticleTitle>第3条(市の責務)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="4">
+          <ArticleTitle>第4条(市民等の責務)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="5">
+          <ArticleTitle>第5条(事業者の責務)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="6">
+          <ArticleTitle>第6条(ぽい捨ての禁止)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="7">
+          <ArticleTitle>第7条(重点区域の指定等)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="8">
+          <ArticleTitle>第8条(路上喫煙禁止地区の指定等)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="9">
+          <ArticleTitle>第9条(路上喫煙禁止地区における路上喫煙の禁止)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="10">
+          <ArticleTitle>第10条(施行細目の委任)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="11">
+          <ArticleTitle>第11条(罰則)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="12">
+          <ArticleTitle>第12条</ArticleTitle>
+        </TOCArticle>
+      </TOCSection>
+      <TOCSection Num="2">
+        <SectionTitle>附則</SectionTitle>
+      </TOCSection>
+    </TOC>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、ぽい捨て及び路上喫煙の防止について必要な事項を定め、市、市民等及び事業者が協働して環境の美化及び公共の場所での喫煙による被害の防止を図り、もって市民等の快適で安全な生活、来訪、滞在等を確保することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">空き缶等　飲料を収納していた缶、瓶、ポリエチレンテレフタレート製ボトルその他の容器、たばこの吸い殻、チューインガムのかみかす、紙くず、プラスチックくずその他の散乱性の高いごみをいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">回収容器　空き缶等を回収するために設置され、又は持ち歩かれる容器をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">ぽい捨て　回収容器その他の定められた場所以外の場所に空き缶等を捨てることをいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市民等　市内に居住し、若しくは滞在し、又は市内を通過する者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>(5)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">事業者　市内で事業活動を行う法人その他の団体及び個人をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>(6)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">道路等　道路、広場、公園その他の公共の場所(室内又はこれに準ずる環境にある場所を除く。)をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>(7)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">路上喫煙　道路等(道路等を管理する権限を有する者が設置し、又は設置を許可した灰皿その他これに類する設備が設けられた場所を除く。)において喫煙すること及び火がついたたばこを所持することをいう。</Sentence>
+              <Sentence Num="2">ただし、道路交通法(昭和35年法律第105号)第2条第1項第9号に規定する自動車(同法第3条に規定する大型自動二輪車及び普通自動二輪車を除く。)の車内においてこれらの行為を行うことを除く。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（市の責務）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、第1条の目的を達成するため、必要な施策を実施しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、ぽい捨て及び路上喫煙の防止に関する市民等及び事業者の自主的な活動を促進するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（市民等の責務）</ArticleCaption>
+        <ArticleTitle>第4条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、路上喫煙をしないよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、環境の美化及び喫煙に係るマナーに関する意識を高めるとともに、第1条の目的を達成するため市が実施する施策に協力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（事業者の責務）</ArticleCaption>
+        <ArticleTitle>第5条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">事業者は、環境の美化及び喫煙に係るマナーに関する意識を高めるとともに、その占有し、又は管理する土地又は建物及びその周辺において、相互に協力して、地域の良好な環境を確保するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">事業者は、ぽい捨て及び路上喫煙を防止するため、これらに関する従業員、使用人等の意識の啓発を図るよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">たばこ、容器に収納した飲料、チューインガムその他のぽい捨て又は路上喫煙の対象となるおそれのある物の製造、加工、販売等を行う者は、ぽい捨て及び路上喫煙を防止するため、これらに関する消費者の意識の啓発、回収容器の設置その他必要な措置を講じなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>4</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">事業者は、第1条の目的を達成するため、市が実施する施策に協力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（ぽい捨ての禁止）</ArticleCaption>
+        <ArticleTitle>第6条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、道路、広場、公園その他の公共の場所にみだりにぽい捨てをしてはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（重点区域の指定等）</ArticleCaption>
+        <ArticleTitle>第7条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1条の目的を達成するため、公衆が出入し、かつ、市域の中において特に環境の美化を推進する必要がある区域をぽい捨て防止重点区域(以下単に「重点区域」という。)として指定する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定により重点区域を指定しようとするときは、関係地域住民、関係団体及び関係行政機関の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1項の規定により重点区域を指定したときは、その旨及び当該重点区域を告示する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>4</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、必要があると認めるときは、第1項の規定による重点区域の指定を変更し、又は解除することができる。この場合においては、前2項の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（路上喫煙禁止地区の指定等）</ArticleCaption>
+        <ArticleTitle>第8条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、重点区域内において、路上喫煙による市民等の身体及び財産への被害が特に発生するおそれがあると認める地区を路上喫煙禁止地区として指定することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第7条第2項から第4項までの規定は、路上喫煙禁止地区について準用する。この場合において、同条第2項から第4項までの規定中「重点区域」とあるのは「路上喫煙禁止地区」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（路上喫煙禁止地区における路上喫煙の禁止）</ArticleCaption>
+        <ArticleTitle>第9条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、路上喫煙禁止地区内において路上喫煙をしてはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（施行細目の委任）</ArticleCaption>
+        <ArticleTitle>第10条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行に関し必要な事項は、規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（罰則）</ArticleCaption>
+        <ArticleTitle>第11条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">第6条の規定に違反し、重点区域内においてぽい捨てをした者は、2万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleTitle>第12条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">第9条の規定に違反した者は、2,000円以下の過料に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成20年4月1日から施行する。ただし、第12条の規定は、平成20年7月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>2</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例による改正前の神戸市たばこの吸い殻及び空き缶等の投げ捨ての防止等に関する条例(平成9年4月条例第8号)第6条第1項の規定により指定したたばこの吸い殻及び空き缶等の投げ捨て防止重点区域は、この条例による改正後の神戸市ぽい捨て及び路上喫煙の防止に関する条例第7条第1項の規定により指定したぽい捨て防止重点区域とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>3</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

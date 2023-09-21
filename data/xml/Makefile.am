@@ -9,6 +9,7 @@ HTMLOUTDIR = $(top_builddir)/@top_HTMLOUTDIR@
 
 baselist = \
 	280003/281000/k302RG00001279 \
+	280003/281000/k302RG00001446 \
 	280003/281000/k302RG00001524
 
 SRCS  = $(addprefix $(XMLDATADIR)/, $(addsuffix .xml,  $(baselist)))
@@ -22,5 +23,5 @@ SUFFIXES = .xml .html
 all: $(DESTS)
 
 -include Makefile.sub
-Makefile.sub: $(top_srcdir)/bin/submake.sh $(top_builddir)/config.log
+Makefile.sub: $(top_srcdir)/bin/submake.sh $(srcdir)/Makefile.am $(top_builddir)/config.log
 	@$(SHELL) $(top_srcdir)/bin/submake.sh $(baselist)

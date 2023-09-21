@@ -4,5 +4,6 @@ config.log
 config.status
 *~
 Makefile
+data/xml/Makefile.sub
 docs/*/
 !docs/css/
