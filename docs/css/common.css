@@ -1,0 +1,954 @@
+@charset "UTF-8";
+
+/*======================================
+            変数定義
+=======================================*/
+:root {
+  /*==========
+     カラー
+  ==========*/
+  /* 【青系】 */
+  /* e-Gov Blue */
+  --color-egov-blue: #1042a4;
+  /* サブ1 */
+  --color-law-type: #4f71b3;
+  /* 背景3 */
+  --color-hover-hilight: #c2cee7;
+  /* 背景1 */
+  --color-egov-background: #e5ebf5;
+  /* 背景2 */
+  --color-gray-bg: #f5f6f8;
+  /* Dark Gray */
+  --color-gray-light: #636974;
+
+  /* 【機能】 */
+  /* 文字 */
+  --color-gray: #323232;
+  /* サブ2 */
+  --color-gray-bg-active: #d7d7d7;
+  /* White */
+  --color-white: #ffffff;
+
+  /* 【アクセント】 */
+  /* エラー注意喚起 */
+  --color-red: #ca241e;
+  /* （注意背景） */
+  --color-caution: #ffe0e0;
+
+
+  /* （リンク文字） */
+  --color-black: #000000;
+
+}
+
+/* テキストリンク */
+a {
+  color: #1042a4;
+  text-decoration: underline; }
+  a:hover {
+    text-decoration: none; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+  section.categoryBox {
+    padding-bottom: 0; }
+
+button {
+  padding: 0;
+  background-color: transparent;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; }
+  button:hover {
+    text-decoration: underline; }
+  button:focus {
+  }
+
+/*======================================
+            LAYOUT
+=======================================*/
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+/*  height: 100%;*/
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+/* 
+@media (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body {
+    display: block !important;
+  }
+}
+ */
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  background: #ffffff;
+  display: block;
+  position: relative;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center; }
+
+  header.hidden {
+    display: none; }
+/*  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+*/
+
+  header h1 {
+    width: 260px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      width: 143px;
+      height: 26px;
+      background: url(../img/logo.svg) left top no-repeat;
+      text-indent: -9999px;
+      display: inline-block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+    header h1 span {
+      margin-left: 8px;
+      font-size: 1.375rem;
+      display: inline-block;
+      font-weight: 550;
+      vertical-align: top;
+      color: #323232; }
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 10px;
+          vertical-align: bottom; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+			width: 40px;
+			height: 40px;
+
+			background-image: url(../img/svg/icon-cancel.svg);
+			background-repeat: no-repeat;
+			background-size: 20px auto;
+			text-indent: -9999px;
+			outline: none;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 20px;
+			background: url(../img/svg/arrow_right_gray.svg) left 8px no-repeat;
+			background-size: auto 20px;
+			display: block;
+			color: #000000;
+			text-decoration: none;
+            }
+
+header  button#btnHamburgerMenu {
+	width: 40px;
+	height: 40px;
+	background: url("../img/svg/icon-menu.svg") center center no-repeat;
+	background-size: 30px 30px;
+	text-indent: -9999px;
+	position: absolute;
+	top: 8px;
+	left: 9px;
+	display: none;
+}
+
+  #sNavi {
+    text-align: right;
+    position: absolute;
+    top: 12px;
+    right: 12px; 
+    padding:0; }
+  #sNavi ul li {
+    padding-left: 20px;
+    display: inline-block; 
+    margin-bottom:5px;}
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 20px auto; }
+
+@media screen and (max-width: 812px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+
+/* footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #323232;
+  font-size: 0.75rem; }
+ */
+
+
+/* 
+.nonDocument footer {
+  text-align: center; }
+   */
+
+
+/* フッタ設定 */
+footer {
+  z-index:99;
+  padding: 28px 25px 26px 25px;
+  background: #636974;
+  text-align: center;
+  color: #fff;
+  margin-top: auto; }
+  footer ul {
+    margin-bottom: 12px;
+    font-size: 0; }
+    footer ul li {
+      margin-bottom: 0;
+      margin-right: 24px;
+      display: inline-block;
+      font-size: 0; }
+      footer ul li:last-child {
+        margin-right: 0; }
+      footer ul li a {
+        font-size: 0.875rem;
+        line-height: 0.875rem;
+        color: #fff;
+        text-decoration: none; }
+        footer ul li a:hover {
+          text-decoration: underline; }
+  footer address {
+    font-size: 0.75rem;
+    line-height: 0.75rem;
+    display: block; }
+
+/* フッタ設定 ここまで */
+
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #hamburgerMenuScroll {
+	height: calc(100% - 50px);
+	overflow-y: auto;
+	padding-bottom: 25px;
+	box-sizing: border-box;
+}
+
+#hamburgerMenu #hamburgerMenuScroll #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #hamburgerMenuScroll #subLink .helpLink {
+        display: block;
+        color: #000000;
+        text-decoration: none; }
+#hamburgerMenu #hamburgerMenuScroll .egovui-nav-sp-footer {
+	text-align: left;
+	padding: 5px 0 5px 15px;
+	border-top: 0.1rem solid #D7D7D7; }
+
+
+  button.moreList {
+    width: 100%;
+    background: #fff;
+    color: #1042A4;
+    border: 1px solid #1042A4;
+    border-radius: 5px;
+    text-align: center;
+    padding: 0 5px;
+    height: 40px;    
+    }
+    button.moreList:hover {
+    }
+    button.moreList::after {
+      width: 20px;
+      height: 20px;
+      content: '';
+      background: url(../img/svg/arrow_bottom_blue.svg) left 7px no-repeat;
+      background-size: 20px auto;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/svg/arrow_top_blue.svg) left 7px no-repeat;
+      background-size: 20px auto; }
+    button.moreList.close::after {
+      background: url(../img/svg/arrow_top_blue.svg) left 7px no-repeat;
+      background-size: 20px auto; }
+
+/*======================================
+            MODULES
+=======================================*/
+table.type1, table.type2 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto 25px auto;
+  border-left: 1px solid #636974;
+  border-bottom: 1px solid #636974; }
+  table.type1 tr td,
+  table.type1 tr th, table.type2 tr td,
+  table.type2 tr th {
+    padding: 5px !important;
+    border-right: 1px solid #636974;
+    border-top: 1px solid #636974; }
+  table.type1 tr th, table.type2 tr th {
+    text-align: left;
+    font-weight: normal; }
+
+table.type1 tr th {
+  width: 20%;
+  background: #F5F6F8;
+  font-weight: 600; }
+
+table.type2 tr td,
+table.type2 tr th {
+  padding: 5px !important; }
+  table.type2 tr td a,
+  table.type2 tr th a {
+    font-weight: 500;
+    display: block; }
+
+table.type2 tr th {
+  background: #F5F6F8;
+  font-weight: 600;
+  text-align: center; }
+
+.bigTitle {
+  font-size: 1.5rem; !important
+  line-height: 1.25em; !important
+  margin-bottom: 36px; !important
+  font-weight: 500; 
+  color: #000 !important
+  }
+
+
+.baseTitle {
+  font-size: 1.25rem;
+  line-height: 1.5em;
+  margin-bottom: 30px;
+  font-weight: 500; }
+
+.smallTitle {
+  font-size: 1.125rem;
+  line-height: 1.5em;
+  margin-bottom: 27px;
+  font-weight: 500; }
+
+.smallText {
+  font-size: 0.875rem;
+  line-height: 1.5em;
+  margin-bottom: 21px;
+  font-weight: 500; }
+
+.supplement {
+  font-size: 0.75rem;
+  line-height: 1.5em;
+  margin-bottom: 18px;
+  font-weight: 500; }
+
+.strong {
+  font-weight: 600; }
+
+.textBtnBlue {
+  color: #1042a4;
+  text-decoration: none;
+  font-weight: 600; }
+  .textBtnBlue:hover {
+    color: #1042a4;
+    text-decoration: underline; }
+
+.textBtnBlack {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 600; }
+  .textBtnBlack:hover {
+    color: #000000;
+    text-decoration: underline; }
+
+.tabTypeA, .tabTypeB, .tabTypeC {
+  min-height: 40px;
+  text-align: left;
+  box-sizing: border-box; }
+  .tabTypeA ul, .tabTypeB ul, .tabTypeC ul {
+    min-height: 40px;
+    font-size: 0;
+    display: inline-block;
+    vertical-align: top; }
+    .tabTypeA ul li, .tabTypeB ul li, .tabTypeC ul li {
+      min-width: 135px;
+      height: 40px;
+      display: inline-block;
+      box-sizing: border-box; }
+      .tabTypeA ul li a, .tabTypeA ul li button, .tabTypeB ul li a, .tabTypeB ul li button, .tabTypeC ul li a, .tabTypeC ul li button {
+        width: 100%;
+        margin-top: 4px;
+        font-size: 1rem;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        box-sizing: border-box; }
+        .tabTypeA ul li a:hover, .tabTypeA ul li button:hover, .tabTypeB ul li a:hover, .tabTypeB ul li button:hover, .tabTypeC ul li a:hover, .tabTypeC ul li button:hover {
+          text-decoration: underline; }
+
+.tabTypeA li {
+  background: #fff;
+  border-bottom: 1px solid #1042A4; }
+  .tabTypeA li.active {
+    font-weight: 600;
+    border-bottom: 5px solid #1042A4; }
+  .tabTypeA li:last-child a,
+  .tabTypeA li:last-child button {
+    border-right: none; }
+  .tabTypeA li a,
+  .tabTypeA li button {
+    padding: 3px 12px 2px 12px;
+    border-right: 1px solid #d7d7d7; }
+    .tabTypeA li a:hover,
+    .tabTypeA li button:hover {
+      color: #1042A4; }
+
+.tabTypeB li {
+  background: #F5F6F8; }
+  .tabTypeB li.active {
+    background: #E5EBF5;
+    font-weight: 600;
+    border-top: 2px solid #1042A4; }
+    .tabTypeB li a, .tabTypeB li button {
+      padding: 3px 12px 2px 12px;
+      color: #1042A4;
+      border-right: 1px solid #d7d7d7; 
+      }
+    .tabTypeB li.active a, .tabTypeB li.active button {
+      color: #000; }
+    .tabTypeB li:last-child a, .tabTypeB li:last-child button {
+      border-right: none; }
+
+.tabBoxForTypeC {
+  margin-top: -1px;
+  margin-bottom: 25px;
+  padding: 25px;
+  background: #F5F6F8;
+  border-top: 1px solid #1042A4;
+  z-index: 1; }
+
+.tabTypeC li {
+  border-radius: 5px 5px 0 0;
+  border-top: 1px solid #d7d7d7;
+  border-left: 1px solid #d7d7d7;
+  border-right: 1px solid #d7d7d7; }
+  .tabTypeC li.active {
+    background: #F5F6F8;
+    border-top: 1px solid #1042A4;
+    border-left: 1px solid #1042A4;
+    border-right: 1px solid #1042A4;
+    border-bottom: 1px solid #F5F6F8; }
+    .tabTypeC li.active a,
+    .tabTypeC li.active button {
+      color: #1042A4; }
+  .tabTypeC li a,
+  .tabTypeC li button {
+    padding: 3px 12px 2px 12px;
+    color: #000; }
+
+input[type=date],
+input[type=text],
+input[type=number],
+select,
+textarea {
+  width: auto;
+  height: 30px;
+  padding: 0 3px;
+  font-size: 1rem;
+  line-height: normal;
+  border: 1px solid #636974;
+  vertical-align: middle;
+  outline: none;
+  color: #323232;
+  border-radius: 5px;
+  box-sizing: border-box;
+  }
+  input[type=date]:focus,
+  input[type=text]:focus,
+  input[type=number]:focus,
+  select:focus,
+  textarea:focus {
+    border: 2px solid #1042A4; }
+  input[type=date].focus,
+  input[type=text].focus,
+  input[type=number].focus,
+  select.focus,
+  textarea.focus {
+    border: 2px solid #1042A4; }
+  input[type=date].error,
+  input[type=text].error,
+  input[type=number].error,
+  select.error,
+  textarea.error {
+    background: #ffe0e0; }
+    input[type=date].error.focus, input[type=date].error:focus,
+    input[type=text].error.focus,
+    input[type=text].error:focus,
+    input[type=number].error.focus,
+    input[type=number].error:focus,
+    select.error.focus,
+    select.error:focus,
+    textarea.error.focus,
+    textarea.error:focus {
+      border: 2px solid #CA241E; }
+  input[type=date].disabled,
+  input[type=text].disabled,
+  input[type=number].disabled,
+  select.disabled,
+  textarea.disabled {
+    background: #F5F6F8; }
+  input[type=date].formCheck,
+  input[type=text].formCheck,
+  input[type=number].formCheck,
+  select.formCheck,
+  textarea.formCheck {
+    border: 1px solid #CA241E; }
+    input[type=date].formCheck:focus,
+    input[type=text].formCheck:focus,
+    input[type=number].formCheck:focus,
+    select.formCheck:focus,
+    textarea.formCheck:focus {
+      border: 2px solid #CA241E; }
+  input[type=date].short,
+  input[type=text].short,
+  input[type=number].short,
+  select.short,
+  textarea.short {
+    max-width: 40px; }
+  input[type=date].middle,
+  input[type=text].middle,
+  input[type=number].middle,
+  select.middle,
+  textarea.middle {
+    max-width: 60px; }
+  input[type=date].long,
+  input[type=text].long,
+  input[type=number].long,
+  select.long,
+  textarea.long {
+    width: 110px; }
+
+textarea {
+  width: 80%;
+  height: 110px; }
+
+input[type=date],
+input[type=submit],
+input[dojoType=ComboBox],
+select,
+label,
+option {
+  cursor: pointer; }
+
+select.short:focus {
+  max-width: 38px; }
+
+select.middle:focus {
+  max-width: 58px; }
+
+select.long:focus {
+  max-width: 118px; }
+
+select {
+  background: #ffffff;
+  font-size: 0.875rem; }
+  select.error {
+    background: #ffe0e0;
+    border: 1px solid #CA241E; }
+  select.disabled {
+    background: #D7D7D7;
+    border: 1px solid #636974;
+    cursor: default; }
+
+
+label {
+  vertical-align: middle;
+  display: inline-block; }
+
+input[type="checkbox"],
+input[type="radio"] {
+  /* 透明度0 */
+  filter: alpha(opacity=0);
+  -moz-opacity: 0;
+  opacity: 0;
+  /* ブラウザのデフォルトのスタイルを削除 */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+       appearance: none;
+  /* レイアウトから無視 */
+  position: absolute; }
+
+.inputCheck {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+  background: #fff;
+  vertical-align: middle;
+  line-height: 25px;
+  border: 1px solid #1042A4;
+  display: inline-block;
+  position: relative; }
+
+input:focus + .inputCheck {
+  border: 2px solid #1042A4; }
+
+input[type="checkbox"]:checked + .inputCheck::after {
+  width: 18px;
+  height: 18px;
+  content: '';
+  background-image: url(../img/svg/checkbox.svg);
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 14px 14px;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 1px; }
+
+input[type="checkbox"]:checked:focus + .inputCheck::after {
+  top: 0;
+  left: 0; }
+
+input[type="checkbox"].error + .inputCheck {
+  background-color: #ffe0e0;
+  border: 1px solid #CA241E; }
+
+input[type="checkbox"]:checked.error + .inputCheck::after {
+  background-image: url(../img/svg/checkbox_red.svg); }
+
+input[type="checkbox"]:disabled + .inputCheck {
+  background: #D7D7D7;
+  border: 1px solid #636974; }
+
+input[type="radio"]:checked + .inputCheck::after {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  content: '';
+  background: #1042A4;
+  position: absolute;
+  top: 4px;
+  left: 4px; }
+
+input[type="radio"]:checked:focus + .inputCheck::after {
+  top: 3px;
+  left: 3px; }
+
+input[type="radio"] + .inputCheck {
+  border-radius: 50%; }
+
+input[type="radio"].error + .inputCheck {
+  background-color: #ffe0e0;
+  border: 1px solid #CA241E; }
+
+input[type="radio"]:checked.error + .inputCheck::after {
+  background: #CA241E; }
+
+input[type="radio"]:disabled + .inputCheck {
+  background: #D7D7D7;
+  border: 1px solid #636974; }
+
+
+.labelColor1 {
+  background: #1042A4;
+  border: 1px solid #1042A4;
+  color: #fff; }
+
+.labelColor2 {
+  background: #fff;
+  border: 1px solid #1042A4;
+  color: #1042A4; }
+
+.labelColor3 {
+  background: #636974;
+  border: 1px solid #636974;
+  color: #fff; }
+
+.labelColor4 {
+  background: #D7D7D7;
+  border: 1px solid #D7D7D7;
+  color: #333; }
+
+.labelColor5 {
+  background: #C2CEE7;
+  border: 1px solid #C2CEE7;
+  color: #565656;
+  cursor: inherit; }
+  .labelColor5:hover {
+    text-decoration: none; }
+
+.labelTypeBtn {
+  width: 110px;
+  min-height: 40px;
+  padding: 0 5px;
+  line-height: normal;
+  box-sizing: border-box;
+  border-radius: 5px; }
+  .labelTypeBtn.min {
+    width: 40px; }
+  .labelTypeBtn.auto {
+    width: auto; }
+  .labelTypeBtn.full {
+    width: 100%; }
+
+
+.linkWhiteArrow {
+	padding: 0 12px 0 30px !important;
+	background-image: url(../img/svg/arrow_right_white.svg) !important;
+	background-position: 11px 11px !important;
+	background-repeat: no-repeat !important;
+	background-size: auto 16px !important;
+}
+
+.iconArrowWhite {
+	padding: 0 12px 0 30px;
+	background-position: 11px 11px;
+	background-repeat: no-repeat;
+	background-size: auto 14px;
+}
+
+.iconArrowWhite.arrowLeft {
+	background-image: url(../img/svg/arrow_left_white.svg);
+}
+.labelTypeBtn.auto {
+	width: auto;
+}
+
+
+.iconBlank, .iconBlankOut {
+	padding-right: 20px;
+	background-position: right 2px top 2px;
+	background-repeat: no-repeat;
+	background-size: 16px auto;
+}
+
+.iconBlank {
+	background-image: url(../img/svg/icon-confirm.svg);
+}
+.iconBlankOut {
+	background-image: url(../img/svg/icon-external-link.svg);
+}
+
+
+/*======================================
+          datepicker
+=======================================*/
+.ui-datepicker {
+	width: 320px !important;
+	z-index: 530 !important;
+}
+.ui-datepicker select.ui-datepicker-month {
+	height: 2em !important;      /* 高さ調整 */
+	width: 70px !important;      /* 幅調整 */
+	margin-left:4px !important;  /*「年」との余白設定 */
+}
+.ui-datepicker select.ui-datepicker-year {
+	height: 2em !important;      /* 高さ調整 */
+	width: auto !important;      /* 幅調整 */
+	margin-right:4px !important; /*「年」との余白設定 */
+}
+
+/* ＜前 次＞ 位置調整*/
+.ui-datepicker .ui-datepicker-prev {
+	top: 5px !important;
+	left: 5px !important;
+}
+.ui-datepicker .ui-datepicker-next {
+	top: 5px !important;
+	right: 5px !important;
+}
+
+/* ＜前  */
+.ui-icon-caret-1-w {
+	background: url(../img/svg/icon-calendar-prev.svg) no-repeat !important;
+	background-size: 14px 14px !important;
+}
+
+/* 次＞ */
+.ui-icon-caret-1-e {
+	background: url(../img/svg/icon-calendar-prev.svg) no-repeat !important;
+	transform:rotate(-180deg) !important;
+	background-size: 14px 14px !important;
+}
+
+/* 日付を中央に */
+.ui-datepicker td span,
+.ui-datepicker td a {
+	text-align:center !important;
+}
+
+/* 背景：背景2 */
+.ui-widget-content {
+	border:1px solid #ddd !important;
+	background:#F5F6F8 !important;
+	color:#323232 !important;
+}
+.ui-widget-content a {
+	color:#323232 !important;
+}
+/* ヘッダ：背景2 */
+.ui-widget-header {
+	border:0px solid #ddd !important;
+	background:#F5F6F8 !important;
+	color:#323232 !important;
+	font-weight:bold !important;
+}
+.ui-widget-header a {
+	color:#323232 !important;
+}
+
+/* 日付の枠、等 */
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default,
+.ui-button,html .ui-button.ui-state-disabled:hover,
+html .ui-button.ui-state-disabled:active {
+	border:1px solid #F5F6F8 !important;
+	background:#F5F6F8 !important;
+	font-weight:normal !important;
+	color:#323232 !important;
+}
+
+/* hover */
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus,
+.ui-button:hover,
+.ui-button:focus {
+	border:1px solid #1042A4 !important;
+	background:#ededed !important;
+	font-weight:normal !important;
+	color:#323232 !important;
+}
+
+/* 選択 */
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover {
+	border:0px solid #1042A4 !important;
+	background:#1042A4 !important;
+	font-weight:normal !important;
+	color:#fff !important;
+}
+
+/* 本日：背景１ */
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight {
+	border:0px solid #E5EBF5 !important;
+	background:#E5EBF5 !important;
+	color:#323232 !important;
+}
+.ui-state-checked {
+	border:1px solid #1042A4 !important;
+	background:#1042A4 !important;
+}

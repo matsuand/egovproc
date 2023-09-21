@@ -10,8 +10,8 @@
   <xsl:template match="Law">
     <html lang="ja">
     <head>
-      <link rel="stylesheet" href="css/reset.css" />
-      <link rel="stylesheet" href="css/common.css" />
+      <link rel="stylesheet" href="../../css/reset.css" />
+      <link rel="stylesheet" href="../../css/common.css" />
     </head>
     <body>
     <xsl:apply-templates select="LawNum"/>
@@ -67,8 +67,7 @@
   </xsl:template>
 
   <xsl:template match="ChapterTitle">
-    <section id="Mp-Pa_1-Ch_1" class="active Chapter">
-      <div style="margin-left: 3em; font-weight: bold;"
+    <section id="Mp-Pa_1-Ch_1" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;"
         class="ChapterTitle _div_ChapterTitle"><xsl:value-of select="."/></div></section>
   </xsl:template>
 

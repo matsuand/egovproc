@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="004" Year="24" PromulgateMonth="06" PromulgateDay="29">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしぎかいきほんじょうれい" Abbrev="" AbbrevKana="">神戸市議会基本条例</LawTitle>
+    <TOC>
+      <TOCLabel>条項目次</TOCLabel>
+      <TOCSection Num="1">
+        <SectionTitle>本則</SectionTitle>
+        <TOCArticle Num="1">
+          <ArticleTitle>第1条(目的)</ArticleTitle>
+        </TOCArticle>
+      </TOCSection>
+      <TOCSection Num="2">
+        <SectionTitle>附則</SectionTitle>
+      </TOCSection>
+      <TOCSection Num="3">
+        <SectionTitle>附則(平成24年3月30日条例第22号)</SectionTitle>
+      </TOCSection>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第1章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第1条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">この条例は、二元代表制の下、合議制の機関である議会の役割を明らかにするとともに、議会に関する基本的な事項を定め、市民の信託に的確に応えることにより、市民福祉の向上及び市勢の発展に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第2条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、執行機関である市長等と対等の議事機関として、市民の多様な意見を把握し、及び市政に反映し得る合議体としての特性を最大限に生かすことにより、住民自治の観点から、真の地方自治の実現に取り組むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第3条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、前条の基本理念にのっとり、次に掲げる基本方針に基づき活動を行うものとする。</Sentence>
+            </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">議案、請願その他の案件(以下「議案等」という。)の審議又は審査による政策決定を行うこと並びに市長等の事務の執行について監視及び評価を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市政の課題について調査研究を行うことにより政策立案に努め、独自の政策提案・提言に取り組むとともに、意見書、決議その他の方法により、国会又は関係行政庁へ意見表明を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">公正性、透明性及び信頼性を重んじ、市民が参画しやすい開かれた議会運営を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">時代の要請に合った議会の運営体制の確立を図るため、議会改革に継続的に取り組むこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第2章　議員の役割及び活動原則</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（役割）</ArticleCaption>
+          <ArticleTitle>第4条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、市民の直接選挙によって選ばれた、公選による公職にある者として、市民を代表して活動を行い、地域の課題のみならず市政の課題全般について、市民の多様な意見を的確に把握し、及び市政に反映するとともに、合議制の機関である議会を構成する一員として、その活動を通じ、市民の信託に応えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（活動原則）</ArticleCaption>
+          <ArticleTitle>第5条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、前条に掲げる役割を果たすに当たり、次に掲げる原則に基づき活動を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">各区の実情の把握に努め、地域の代表にとどまらず、市政全体を見据えた幅広い視点及び長期的な展望を持って、的確な判断を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">議会が言論の場であること及び合議制の機関であることを踏まえ、市民の多様な意見の把握に努めるとともに、議員相互間の討議を活発に行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>(3)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">日常の研修及び調査研究を通じて、自らの資質の向上に不断に努めるとともに、自らの活動を市民に分かりやすく説明すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（会派）</ArticleCaption>
+          <ArticleTitle>第6条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、政策決定、政策立案及び政策提案・提言に資するため、政策を中心とした同一の理念を共有する議員の集団として、2人以上の議員で構成する会派を結成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">会派は、政策決定、政策立案及び政策提案・提言に係る議会活動に関し、必要に応じて、会派間で相互に協議を行い、円滑かつ効果的な議会運営を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第3章　議会と市長等との関係</ChapterTitle>
+        <Article Num="7">
+          <ArticleCaption>（市長等との関係の基本原則）</ArticleCaption>
+          <ArticleTitle>第7条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、二元代表制の下、市長等と対等で緊張感がある関係を構築し、多様な観点から政策決定を行い、並びに市長等の事務の執行に対する監視及び評価を行うとともに、政策立案に努め、独自の政策提案・提言を通じて、市民福祉の向上及び市勢の発展に取り組むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">合議制である議会は、市長等との立場及び権能の違いを踏まえ、活動を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（議決事件）</ArticleCaption>
+          <ArticleTitle>第8条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">地方自治法(昭和22年法律第67号)第96条第2項に規定する条例で定める議会の議決すべき事件は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">基本構想(市政の総合的かつ計画的な運営を図るために長期的な展望に立って定める構想)の策定、変更又は廃止</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">基本計画(基本構想に基づき市政全般に係る政策及び施策の基本的な方向を総合的かつ体系的に定める計画)の策定、変更又は廃止</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（議会への説明）</ArticleCaption>
+          <ArticleTitle>第9条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長等は、議会又は議員から市の政策及び事務に係る監視及び調査のため、資料の提出又は説明の要求があったときは、誠実に対応しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市長等は、次に掲げるときは遅滞なく議会に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">実施計画(基本計画に基づき市政全般に係る具体的な施策の実施に関して体系的に定める計画)及び各行政分野における基本的な計画(計画期間が10年以上のものに限る。)を策定し、変更し、又は廃止しようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">姉妹都市若しくは友好都市又はこれらに類する関係を提携し、又は解消しようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（監視及び評価）</ArticleCaption>
+          <ArticleTitle>第9条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長等は、議会又は議員から市の政策及び事務に係る監視及び調査のため、資料の提出又は説明の要求があったときは、誠実に対応しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（政策決定、政策立案及び政策提案・提言）</ArticleCaption>
+          <ArticleTitle>第11条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、独任制の市長とは異なる合議制の機関としての独自の観点から、条例の制定、議案の修正、決議その他の方法を通じて、市長等に対し、積極的に政策決定、政策立案及び政策提案・提言を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第4章　議会運営の原則</ChapterTitle>
+        <Article Num="11_2">
+          <ArticleCaption>（議長の役割）</ArticleCaption>
+          <ArticleTitle>第11条の2</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議長は、中立かつ公平な立場において地方自治法等に規定する職務を行い、民主的な議会運営を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議長は、議会の代表者として、議会の機能強化に向けた議論を推進する役割を果たすものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>3</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議長は、議会に関する諸課題の解決を図るため、関係機関と連携し議会制度の改善及び見直し等に積極的に取り組むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（議会運営の原則）</ArticleCaption>
+          <ArticleTitle>第12条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、多様な観点から政策決定を行い、市長等の事務の執行に対する監視及び評価を行い、並びに政策立案及び政策提案・提言を行う機能が十分発揮できるよう、円滑かつ効率的な運営に努め、合議制の機関である議会の役割を果たすものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、市政の課題に的確かつ柔軟に対応し、主体的・機動的な活動を展開するため、年間を通じて十分に審議を尽くすことができる会期を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>3</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">本会議、委員会その他の会議(以下「会議等」という。)は、民主的かつ効率的な運営を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（委員会の活動）</ArticleCaption>
+          <ArticleTitle>第13条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">委員会は、次に掲げる事項について充実を図り、その権能を十分に発揮するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">議案等の審査</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">市政に関する課題の調査</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>(3)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">委員会の所管に属する市の事務の調査</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、議員間における討議等を通じて、政策決定、政策立案及び政策提案・提言を積極的に行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（会議等における質疑応答）</ArticleCaption>
+          <ArticleTitle>第14条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">本会議における質疑及び市政一般の課題に対する質問については、論点及び争点を明らかにして行い、議員は、一括質疑・質問一括答弁方式又は一問一答方式により行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市長等は、議長又は委員長の許可を得て、答弁に必要な範囲内で、会議等における議員の質疑又は質問の趣旨を確認するための発言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第5章　市民と議会の関係</ChapterTitle>
+        <Article Num="15">
+          <ArticleCaption>（市民参加の促進）</ArticleCaption>
+          <ArticleTitle>第15条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、市民の多様な意見を把握し、政策形成に反映し得る合議体としての特性を最大限に生かし、市民が議会の活動に参加する機会を確保するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（広報及び広聴の充実）</ArticleCaption>
+          <ArticleTitle>第16条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、市民に開かれた議会を実現するため、情報通信技術の発達を踏まえた多様な手段を活用することにより、広報及び広聴の充実に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（会議等の公開）</ArticleCaption>
+          <ArticleTitle>第17条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、公正性及び透明性を確保するとともに、開かれた議会運営に資するため、会議等を原則として公開するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第6章　議会機能の強化</ChapterTitle>
+        <Article Num="18">
+          <ArticleCaption>（議会機能の強化）</ArticleCaption>
+          <ArticleTitle>第18条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、多様な観点から政策決定を行い、市長等の事務の執行に対する監視及び評価を行い、並びに政策立案及び政策提案・提言を行う機能を強化するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（学識経験者等の活用）</ArticleCaption>
+          <ArticleTitle>第19条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、会議等における審議の充実、政策形成機能の強化及び政策の効果の評価に資するため、学識経験を有する者等の知見を積極的に活用するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、必要に応じて学識経験を有する者等で構成する調査機関を設置することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（議会は、必要に応じて学識経験を有する者等で構成する調査機関を設置することができる。）</ArticleCaption>
+          <ArticleTitle>第20条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、政策決定、政策立案及び政策提案・提言の能力の向上のため、研修及び調査研究に積極的に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（政務活動費）</ArticleCaption>
+          <ArticleTitle>第21条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">会派(第6条の規定にかかわらず、会派に所属しない議員も会派とみなす。)は、調査研究その他の活動に資するために政務活動費の交付を受け、証拠書類を公開することその他の方法によりその使途の透明性を確保するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第7章　議会改革の推進</ChapterTitle>
+        <Article Num="22">
+          <ArticleCaption>（議会改革）</ArticleCaption>
+          <ArticleTitle>第22条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、市民の意見、社会情勢その他の状況の変化により新たに生ずる市政の課題に適切かつ迅速に対応するため、常に議会の改革に取り組むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、前項の規定による取組を行うため、議員で構成する推進組織を設置することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第8章　政治倫理</ChapterTitle>
+        <Article Num="23">
+          <ArticleCaption>（政治倫理）</ArticleCaption>
+          <ArticleTitle>第23条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議員は、市民の信託に応えるため、高い倫理的義務が課せられていることを自覚し、市民の代表として良心及び責任感を持って、品位を保持し、識見を養うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第9章　市会事務局</ChapterTitle>
+        <Article Num="24">
+          <ArticleCaption>（市会事務局）</ArticleCaption>
+          <ArticleTitle>第24条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、議員の活動を補佐し、議会活動を円滑かつ効率的に行うため、事務局の機能の強化及び組織体制の整備に努めるとともに、議員の政策決定、政策立案及び政策提案・提言を支援するため、事務局の調査及び法制機能の充実を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（市会図書室）</ArticleCaption>
+          <ArticleTitle>第25条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、議員の調査研究に資するため、図書室を適正に管理運営するとともに、その機能の充実を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第10章　最高規範性と条例の見直し</ChapterTitle>
+        <Article Num="26">
+          <ArticleCaption>（最高規範性）</ArticleCaption>
+          <ArticleTitle>第26条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">この条例は、本市会における最高規範であって、議会に関する他の条例、規則その他の規程の制定及び改廃に当たっては、この条例の趣旨を尊重し、この条例に定める事項との整合を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（条例の見直し）</ArticleCaption>
+          <ArticleTitle>第27条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">議会は、常に市民の意見、社会情勢その他の状況の変化を勘案し、議会運営に係る不断の評価及び改善を行い、必要があると認めるときは、この条例の規定について検討を加え、その結果に基づいて、この条例の改正を含め適切な措置を遅滞なく講じるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則　抄</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphSentence>
+          <Sentence Num="1">この条例は、平成16年4月1日から施行する。ただし、第8条の規定は同年10月1日から、第5条の規定は規則で定める日から施行する。</Sentence>
+          <Sentence Num="2">(平成16年4月16日規則第5号により第5条の規定は平成16年4月19日から施行)</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成25年2月28日条例第60号）抄">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphSentence>
+          <Sentence Num="1">この条例は、平成24年4月1日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（令和4年6月23日条例第2号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphSentence>
+          <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
