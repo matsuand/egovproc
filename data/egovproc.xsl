@@ -41,6 +41,8 @@
   </xsl:template>
 
   <xsl:template match="EnactStatement">
+    <section id="EnactStatement" class="active EnactStatement"><div
+      class="_div_EnactStatement" style=""><xsl:value-of select="."/></div></section>
   </xsl:template>
 
   <xsl:template match="TOC">
@@ -105,7 +107,7 @@
         </div>
       </xsl:when>
       <xsl:otherwise>
-        <span style="font-weight: bold;"><xsl:value-of select="../@Num"/></span>　<xsl:for-each select="Sentence"><xsl:value-of select="."/></xsl:for-each><br/>
+        <span style="font-weight: bold;"><xsl:value-of select="../ParagraphNum"/></span>　<xsl:for-each select="Sentence"><xsl:value-of select="."/></xsl:for-each><br/>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
@@ -152,6 +154,8 @@
   </xsl:template>
 
   <xsl:template match="TOCChapter">
+    <span style="font-weight: bold;"><xsl:value-of
+      select="ChapterTitle"/></span>
   </xsl:template>
 
   <xsl:template match="TOCSection">

@@ -4,21 +4,79 @@
   <LawBody>
     <LawTitle Kana="こうべしぎかいきほんじょうれい" Abbrev="" AbbrevKana="">神戸市議会基本条例</LawTitle>
     <TOC>
-      <TOCLabel>条項目次</TOCLabel>
-      <TOCSection Num="1">
-        <SectionTitle>本則</SectionTitle>
-        <TOCArticle Num="1">
-          <ArticleTitle>第1条(目的)</ArticleTitle>
-        </TOCArticle>
-      </TOCSection>
-      <TOCSection Num="2">
-        <SectionTitle>附則</SectionTitle>
-      </TOCSection>
-      <TOCSection Num="3">
-        <SectionTitle>附則(平成24年3月30日条例第22号)</SectionTitle>
-      </TOCSection>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="0">
+        <ChapterTitle>前文</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="1">
+        <ChapterTitle>第1章　総則(第1条―第3条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第2章　議員の役割及び活動原則(第4条―第6条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第3章　議会と市長等との関係(第7条―第11条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第4章　議会運営の原則(第11条の2―第14条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第5章　市民と議会の関係(第15条―第17条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第6章　議会機能の強化(第18条―第21条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第7章　議会改革の推進(第22条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第8章　政治倫理(第23条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第9章　市会事務局(第24条・第25条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第10章　最高規範性と条例の見直し(第26条・第27条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>附則</ChapterTitle>
+      </TOCChapter>
     </TOC>
     <MainProvision>
+      <Chapter Num="0">
+        <Article Num="1">
+          <Paragraph Num="1">
+            <ParagraphSentence>
+              <Sentence Num="1">日本国憲法は、地方公共団体において、議会の議員と長をそれぞれ住民が直接選挙し、議事機関としての合議制の議会と執行機関としての独任制の長という2つの代表機関を設置するという、二元代表制を採用している。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphSentence>
+              <Sentence Num="1">この2つの代表機関は、相互に独立・対等の立場で、互いに尊重し、抑制と均衡を保ちながら、それぞれの特性を生かすことにより、その役割を果たすことが求められている。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphSentence>
+              <Sentence Num="1">一方、社会情勢に目を転じると、人口減少・少子高齢化社会の到来、家族やコミュニティの機能の変容を始めとする時代潮流の中で、住民に身近な行政の果たすべき役割は従来にも増して大きくなってきており、地方公共団体は、これまで以上に住民の信託に応えられる存在に進化を遂げなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphSentence>
+              <Sentence Num="1">このような中、平成23年には、国の法令による地方公共団体への「義務付け・枠付けの見直し」が行われ、条例制定権の自主性及び自由度を高めることを狙いとした「地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律(平成23年法律第37号)」が成立するなど、近年、地域のことは地域が決めるという住民による行政を実現しようとする方向への転換が進められており、このような住民の信託に応えるためには、住民に身近な存在であるとともに、多様な意見を反映することができる議会の更なる充実・強化が求められている。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphSentence>
+              <Sentence Num="1">平成7年の阪神・淡路大震災の発生時には、即座に行動を起こし、国会又は関係行政庁への強力な働きかけを行うなどして、未曽有の難局を市民と共に乗り越えてきた本市会は、この貴重な経験を生かし、市民の積極的な参加を得ながら、市長その他の執行機関(以下「市長等」という。)とは緊張感がある関係を保ち、独立・対等の立場において、多様な観点から政策決定を行い、並びに市長等の事務の執行に対する監視及び評価を行うとともに、政策立案に努め、独自の政策提案・提言を行うことにより、これらの責務を果たそうとするものである。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphSentence>
+              <Sentence Num="1">ここに、本市会は、日本国憲法に定める二元代表制の下、多元的な利益を反映することができる合議制である議会と、行政分野において専門性の高い独任制である市長が、それぞれの特性を生かし、お互い補完し合いながら、切磋琢磨することにより、地方自治の本旨に基づく市民の信託に全力で応えていくことを決意し、この条例を制定するものである。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
       <Chapter Num="1">
         <ChapterTitle>第1章　総則</ChapterTitle>
         <Article Num="1">
@@ -203,7 +261,7 @@
         </Article>
         <Article Num="10">
           <ArticleCaption>（監視及び評価）</ArticleCaption>
-          <ArticleTitle>第9条</ArticleTitle>
+          <ArticleTitle>第10条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -482,20 +540,29 @@
     </MainProvision>
     <SupplProvision>
       <SupplProvisionLabel>附　則　抄</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphSentence>
-          <Sentence Num="1">この条例は、平成16年4月1日から施行する。ただし、第8条の規定は同年10月1日から、第5条の規定は規則で定める日から施行する。</Sentence>
-          <Sentence Num="2">(平成16年4月16日規則第5号により第5条の規定は平成16年4月19日から施行)</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成24年7月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="（平成25年2月28日条例第60号）抄">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphSentence>
-          <Sentence Num="1">この条例は、平成24年4月1日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成25年3月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="（令和4年6月23日条例第2号）">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
