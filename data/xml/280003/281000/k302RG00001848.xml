@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="MinesterialOrdinance" Num="004" Year="2" PromulgateMonth="04" PromulgateDay="03">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしあんぜんであんしんなまちづくりにしするぼうはんかめらのせっちおよびうんようにかんするじょうれい" Abbrev="" AbbrevKana="">神戸市安全で安心なまちづくりに資する防犯カメラの設置及び運用に関する条例</LawTitle>
+    <EnactStatement>平成2年4月3日 条例第4号</EnactStatement>
+    <TOC>
+      <TOCLabel>条項目次</TOCLabel>
+      <TOCSection Num="1">
+        <SectionTitle>本則</SectionTitle>
+        <TOCArticle Num="1">
+          <ArticleTitle>第1条(目的)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="2">
+          <ArticleTitle>第2条(定義)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="3">
+          <ArticleTitle>第3条(防犯カメラの設置及び運用)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="4">
+          <ArticleTitle>第4条(画像の利用及び提供の制限)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="5">
+          <ArticleTitle>第5条(管理責任者等の設置)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="6">
+          <ArticleTitle>第6条(関係機関等との連携)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="7">
+          <ArticleTitle>第7条(苦情の処理)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="8">
+          <ArticleTitle>第8条(運用状況の公表)</ArticleTitle>
+        </TOCArticle>
+        <TOCArticle Num="9">
+          <ArticleTitle>第9条(施行細目の委任)</ArticleTitle>
+        </TOCArticle>
+      </TOCSection>
+      <TOCSection Num="2">
+        <SectionTitle>附則</SectionTitle>
+      </TOCSection>
+    </TOC>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、市民等の権利利益の保護に配慮しつつ、通学路、駅周辺及び繁華街の道路等に設置する防犯カメラに関し必要な事項を定めることにより、子供や女性を対象とした犯罪の予防及び解決その他市民生活の安全の確保を図り、もって安全で安心なまち神戸の実現に寄与することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">防犯カメラ　道路等を継続的に撮影するため、市が設置する撮影装置、当該撮影装置と電気通信回線を通じて接続される情報機器その他必要な関連機器で構成されるもののうち、次条第2項第5号の規定による表示において「神戸市カメラ」と標記されているものをいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">道路等　道路、公園、広場その他公共の用に供する場所(室内又はこれに準ずる環境にある場所を除く。)をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市民等　市内に居住し、若しくは滞在し、又は市内を通過する者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">画像　防犯カメラの映像記録装置により記録された電磁的記録(電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。)であって、画像表示用装置を用いて表示できるもののうち、特定の市民等が識別され、若しくは識別され得るもの又はこれらに係る記録媒体その他の物をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（防犯カメラの設置及び運用）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、子供や女性を対象とした犯罪の予防及び解決その他市民生活の安全の確保を図るため、道路等に防犯カメラを設置し、撮影し、及び録画すること(次項第5号において「設置等」という。)ができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、防犯カメラの設置及び運用に際しては、次の各号に掲げる事項を遵守しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">撮影の対象区域及び範囲を必要最小限度とすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">画像の保管期間は、2週間以内の範囲内において規則で定める期間とすること。</Sentence>
+              <Sentence Num="2">ただし、法令又は条例(次条第2項第1号において「法令等」という。)の規定に基づき画像を提供する場合又は捜査機関から犯罪捜査を目的とする要請を受けた場合において、市長が必要と認めるときは、2週間を超えて画像を保管することができる。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">保管期間を経過した画像については、消去又は粉砕その他の方法により復元することができないようにすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">画像の漏えい、滅失、毀損及び改ざんの防止その他画像の適正な管理のために必要な措置を講じること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>(5)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市民等の見やすい場所に、防犯カメラを設置等している旨を表示すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>(6)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">前各号に掲げるもののほか、規則で定める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（画像の利用及び提供の制限）</ArticleCaption>
+        <ArticleTitle>第4条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、捜査機関から画像の提供の要請を受けた場合に限り、犯罪の予防及び解決その他市民生活の安全の確保を図るために必要があると認められる範囲内において、これを当該捜査機関に提供することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の目的以外の目的のために画像を利用し、又は第三者に提供してはならない。</Sentence>
+            <Sentence Num="2">ただし、次の各号のいずれかに該当するときは、この限りではない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">法令等に規定があるとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市民等の生命、身体又は財産の保護のため、緊急かつやむを得ないと認められるとき。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（管理責任者等の設置）</ArticleCaption>
+        <ArticleTitle>第5条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、防犯カメラの適正な設置及び運用を行うため、規則で定めるところにより、管理責任者、取扱責任者その他必要な職員(次項において「管理責任者等」という。)を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">管理責任者等は、規則で定める事務を行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（関係機関等との連携）</ArticleCaption>
+        <ArticleTitle>第6条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、防犯カメラの設置による安全で安心なまちづくりの推進に当たっては、関係する機関及び団体との連携を図るものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（苦情の処理）</ArticleCaption>
+        <ArticleTitle>第7条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、防犯カメラの設置及び運用に関して市民等から苦情の申出があったときは、迅速かつ適切に対応するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（運用状況の公表）</ArticleCaption>
+        <ArticleTitle>第8条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、規則で定めるところにより、毎年度、防犯カメラの運用状況を公表するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（施行細目の委任）</ArticleCaption>
+        <ArticleTitle>第9条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行に関し必要な事項は、規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、令和2年5月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
