@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="004" Year="24" PromulgateMonth="06" PromulgateDay="29">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="ＸＸしＹＹＹＹじょうれい" Abbrev="" AbbrevKana="">ＸＸ市ＹＹＹＹ条例</LawTitle>
+    <EnactStatement>平成NN年NN月NN日 条例第N号</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="0">
+        <ChapterTitle>前文</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="1">
+        <ChapterTitle>第1章　総則(第N条―第N条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>附則</ChapterTitle>
+      </TOCChapter>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="0">
+        <Article Num="1">
+          <Paragraph Num="1">
+            <ParagraphSentence>
+              <Sentence Num="1">パラグラフ</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="1">
+        <ChapterTitle>第1章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第1条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">センテンス</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（ＸＸＸＸ）</ArticleCaption>
+          <ArticleTitle>第2条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">センテンス</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">箇条書き項目</Sentence>
+            </ItemSentence>
+          </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1"></Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成NN年NN月NN日条例第NN号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">センテンス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
