@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="052" Year="6" PromulgateMonth="03" PromulgateDay="31">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしみんのかんきょうをまもるじょうれい" Abbrev="" AbbrevKana="">神戸市民の環境をまもる条例</LawTitle>
+    <EnactStatement>平成6年3月31日 条例第52号</EnactStatement>
+    <EnactStatement>神戸市民の環境をまもる条例(昭和47年8月条例第33号)の全部を改正する。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第1章　総則</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第1節　通則(第1条―第6条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第2節　環境保全基本計画(第7条―第10条)</SectionTitle>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第2章　健全な地域環境の保全</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第1節　公害対策の着実な推進(第11条―第15条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第2節　自然環境の保全等(第16条―第19条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第3節　環境影響評価の推進(第20条・第21条)</SectionTitle>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第3章　環境保全型社会の実現(第22条―第26条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第4章　市、事業者及び市民の参画及び協働</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第1節　参画及び協働による取組等(第27条・第28条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第2節　環境教育の推進等(第29条―第33条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第3節　健全で快適な環境の確保に関する活動の促進(第34条―第37条)</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第4節　健全で快適な環境を確保するための施策への参画等(第38条・第39条)</SectionTitle>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第5章　環境保全協定(第40条・第41条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第6章　地球環境保全への貢献(第42条―第47条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第7章　神戸港の環境の保全(第48条―第52条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第8章　神戸市環境保全審議会(第53条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第9章　補則(第54条・第55条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第10章　罰則(第56条・第57条)</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>附則</ChapterTitle>
+      </TOCChapter>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第1章　総則</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第1節　通則</SectionTitle>
+          <Article Num="1">
+            <ArticleCaption>（目的）</ArticleCaption>
+            <ArticleTitle>第1条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">この条例は、市民が健康で文化的な生活を営むためには、健全で快適な環境が極めて重要であることにかんがみ、健全で快適な環境の確保について、基本理念を定め、並びに市、事業者及び市民の責務を明らかにするとともに、健全で快適な環境を確保するための施策の基本となる事項その他必要な事項等を定めることにより、その施策を総合的に推進し、もって現在及び将来の市民の健全で快適な環境を確保することを目的とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="2">
+            <ArticleCaption>（定義）</ArticleCaption>
+            <ArticleTitle>第2条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">この条例において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>(1)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境　大気、水、土壌その他の環境の自然的構成要素を良好な状態に保持することにより、人の健康を保護し、生活環境(人の生活に密接な関係のある財産並びに人の生活に密接な関係のある動植物及びその生育環境を含む。以下同じ。)を保全し、生態系の多様性を確保し、及び自然環境を保全すること並びに人と自然と文化との豊かな触れ合いを保つことにより、潤いや安らぎを享受することができる環境をいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>(2)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">環境への負荷　人の活動により環境に加えられる影響であって、環境の保全上の支障の原因となるおそれのあるものをいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>(3)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">公害　事業活動その他の人の活動に伴って生ずる相当範囲にわたる大気の汚染、水質の汚濁(水質以外の水の状態又は水底の底質が悪化することを含む。以下同じ。)、土壌の汚染、騒音、振動、地盤の沈下(鉱物の掘採のための土地の掘削によるものを除く。以下同じ。)及び悪臭によって、人の健康又は生活環境に係る被害が生ずることをいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>(4)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">地球環境保全　人の活動による地球全体の温暖化又はオゾン層の破壊の進行、海洋の汚染、野生生物の種の減少その他の地球の全体又はその広範な部分の環境に影響を及ぼす事態に係る環境の保全であって、人類の福祉に貢献するとともに、市民の健康で文化的な生活の確保に寄与するものをいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>(5)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">廃棄物　ごみ、粗大ごみ、燃え殻、汚泥、ふん尿、廃油、廃酸、廃アルカリ、動物の死体その他の汚物又は不要物であって、固形状又は液状のもの(放射性物質及びこれによって汚染された物を除く。)をいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>(6)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">神戸港の区域　神戸港に係る港湾法(昭和25年法律第218号)第2条第3項に規定する港湾区域及び同条第4項に規定する臨港地区その他市長が定める区域をいう。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="3">
+            <ArticleCaption>（基本理念）</ArticleCaption>
+            <ArticleTitle>第3条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">健全で快適な環境の確保は、次に掲げる基本理念(以下「基本理念」という。)にのっとり、推進されなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>(1)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">自然の摂理の下に自然と人間との健全な調和を図りつつ、環境への負荷の少ない持続的に発展することができる環境保全型の社会の実現を目指すべきこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>(2)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境は、その重要性の意義とともに現在の市民から将来の市民へ継承されるべきこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>(3)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">環境を構成する大気、水、その他のものの資源としての有限性を認識するとともに、それらの適正な管理及び利用が図られるべきこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>(4)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">すべての市民が健全で快適な環境の恵沢を享受することができるよう、市、事業者及び市民のすべてがそれぞれの責務を自覚し、あらゆる力を尽くし、協働してその実現を図るべきこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>(5)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">地球環境保全が人類共通の課題であるとともに市民の健康で文化的な生活を将来にわたって確保する上で極めて重要であることから、地球環境保全を自らの問題としてとらえ、地球環境保全に貢献すべきこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="4">
+            <ArticleCaption>（市の基本的責務）</ArticleCaption>
+            <ArticleTitle>第4条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、基本理念にのっとり、健全で快適な環境の確保に関する基本的かつ総合的な施策を策定し、及び実施する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、前項の施策を策定し、及び実施するに当たって、総合的な行政の運営を図る責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>3</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、自ら行う事業の実施に当たって環境への負荷の低減に積極的に努めるとともに、市の施策を策定し、及び実施するに当たって健全で快適な環境の確保について配慮する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>4</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境の確保に関し、国の施策に準じた施策及びその他の市域の自然的社会的条件に応じた施策を策定し、及び実施する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（事業者の基本的責務）</ArticleCaption>
+            <ArticleTitle>第5条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者は、基本理念にのっとり、健全で快適な環境の確保のために自らの立場を自覚し、自らの責任と負担において、その事業活動に伴って生ずる公害を防止するために必要な措置を講ずる責務を有するとともに、環境への負荷の低減に積極的に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者は、その事業活動を行うに当たって、公害の原因となるおそれがあるものを厳重に管理し、及び環境の状況を常時監視するとともに、公害その他健全で快適な環境の確保に支障を及ぼす行為(以下「公害等」という。)に係る紛争が生じたときは、誠意をもってその解決に当たるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>3</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者は、自らの責任と負担において、その事業活動に伴って生ずる廃棄物の発生を抑制し、及び神戸市廃棄物の適正処理、再利用及び環境美化に関する条例(平成5年3月条例第57号)第2条第2項に規定する再利用(以下「再利用」という。)等を図ることによりその減量を行うとともに、廃棄物を適正に処理する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>4</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者は、物の製造、加工又は販売その他の事業活動を行うに当たって、その事業活動に係る製品その他の物が使用され、又は廃棄されることによる環境への負荷の低減に資するように努めるとともに、その事業活動において、再生資源その他の環境への負荷の低減に資する原材料、役務等を利用するように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>5</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者は、公害の防止並びにその事業活動に伴って生ずる廃棄物の適正な処理及び再利用に関する技術の研究及び開発を行うとともに、それらの成果の導入に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>6</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前各項に定めるもののほか、事業者は、健全で快適な環境の確保のために必要な活動を積極的に行うように努めるとともに、市が実施する健全で快適な環境の確保に関する施策に参画し、及び協力する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（市民の基本的責務）</ArticleCaption>
+            <ArticleTitle>第6条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市民は、基本理念にのっとり、健全で快適な環境の確保とその生活との関係を認識し、及びその日常生活に伴う環境への負荷の低減に積極的に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前項に定めるもののほか、市民は、健全で快適な環境の確保のために必要な活動を積極的に行うように努めるとともに、市が実施する健全で快適な環境の確保に関する施策に参画し、及び協力する責務を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第2節　環境保全基本計画</SectionTitle>
+          <Article Num="7">
+            <ArticleCaption>（環境保全基本計画）</ArticleCaption>
+            <ArticleTitle>第7条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、健全で快適な環境の確保に関する施策の総合的かつ計画的な推進を図るため、健全で快適な環境の確保に関する基本的な計画(以下「環境保全基本計画」という。)を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">環境保全基本計画は、次に掲げる事項について定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>(1)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境の確保に関する施策の目標</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>(2)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境の確保に関する施策の大綱</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>(3)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境の確保のために市長、事業者及び市民が配慮すべき指針(以下「環境配慮指針」という。)</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>(4)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">前3号に掲げるもののほか、健全で快適な環境の確保に関する施策を総合的かつ計画的に推進するために必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>3</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">環境保全基本計画は、環境の状況の変化等に応じ、必要な変更がなされなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（環境保全基本計画の作成手続）</ArticleCaption>
+            <ArticleTitle>第8条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、環境保全基本計画を定めるに当たって、市民の意見を反映するように努めるとともに、第8章に定める神戸市環境保全審議会の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、環境保全基本計画を定めたときは、速やかに当該計画を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>3</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前2項の規定は、環境保全基本計画の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（環境保全基本計画による調整等）</ArticleCaption>
+            <ArticleTitle>第9条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、土地利用に関する計画その他健全で快適な環境の確保と密接に関係する計画の作成及びこれらの計画に基づく事業の実施に当たっては、これらの計画の作成及びこれらの計画に基づく事業の実施が環境保全基本計画に適合するように総合的な調整を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、前項の調整を行うために必要な体制を整備するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（環境配慮指針への適合）</ArticleCaption>
+            <ArticleTitle>第10条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者及び市民は、その社会経済活動のあり方、生活様式のあり方等を環境配慮指針に適合させるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第2章　健全な地域環境の保全</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第1節　公害対策の着実な推進</SectionTitle>
+          <Article Num="11">
+            <ArticleCaption>（公害対策の推進）</ArticleCaption>
+            <ArticleTitle>第11条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、人の健康を保護し、及び生活環境を保全するため、第7条第1項に規定する環境保全基本計画に基づき、公害を防止するために必要な施策を策定し、及び総合的かつ計画的に推進するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（化学物質等による環境の汚染の未然防止）</ArticleCaption>
+            <ArticleTitle>第12条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、人の健康を損なうおそれのある化学物質その他の環境の汚染をひき起こすおそれのある物質等(以下「化学物質等」という。)による環境の汚染を未然に防止するため、化学物質等に係る情報の収集、大気中等の化学物資等の濃度の状況についての監視及び測定、化学物質等の排出の抑制その他必要な措置を講ずるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（体制の整備等）</ArticleCaption>
+            <ArticleTitle>第13条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、環境の状況の把握並びに健全で快適な環境の確保に関する施策を科学的かつ適正に推進するために必要な監視、測定、試験、検査及び研究の体制の整備に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、環境の状況の把握に努め、並びに健全で快適な環境の確保に関する施策を策定するために必要な調査及び研究を行うように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>3</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、公害の原因となるおそれがあるもの及び環境の状況を常時監視しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（公害等に係る苦情の処理）</ArticleCaption>
+            <ArticleTitle>第14条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、他の行政機関と強力して、公害等に係る苦情について、迅速かつ適正な処理を図るように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（公害防止施設の設置等に関する支援）</ArticleCaption>
+            <ArticleTitle>第15条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、中小企業基本法(昭和38年法律第154号)第2条に規定する中小企業者又は中小企業団体の組織に関する法律(昭和32年法律第185号)第3条第1項に規定する中小企業団体が公害防止のために行う施設の設置、整備等について必要な補助及び技術上の指導を行うように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第2節　自然環境の保全等</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（自然環境の保全等に係る市等の責務）</ArticleCaption>
+            <ArticleTitle>第16条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">生態系の多様性を確保し、及び自然環境を保全していくことは、健全で快適な環境を確保していく上で極めて重要であることから、市、事業者及び市民は、それぞれの立場において、生態係の多様性の確保及び自然環境の保全に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（調査、研究等）</ArticleCaption>
+            <ArticleTitle>第17条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、植生又は野生動物に関する調査及び研究その他の自然環境の保全に係る施策の策定に必要な調査及び研究を行うとともに、自然環境の保全、育成等のために必要な措置を講ずるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（土地の形状の変更等を行う事業者の配慮義務）</ArticleCaption>
+            <ArticleTitle>第18条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">土地の形状の変更、工作物の新設その他これらに類する事業を行う事業者は、その事業の実施に当たって、あらかじめ、その事業に係る自然環境の保全について適正に配慮しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（山、海等の自然環境の保全及び利用）</ArticleCaption>
+            <ArticleTitle>第19条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、六甲山等の山の良好な自然環境の保全及び適正な利用を図るため、緑地の保全、渓流及び池沼の良好な水質の確保、レクリエーション施設の適正な配置等に関し、必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>2</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、須磨海岸等の海及び海浜の良好な自然環境の保全及び適正な利用を図るため、良好な水質及び海浜の確保、海水浴その他の海のレクリエーションのための施設の整備等に関し、必要な措置を講ずるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第3節　環境影響評価の推進</SectionTitle>
+          <Article Num="20">
+            <ArticleCaption>（環境影響評価の推進）</ArticleCaption>
+            <ArticleTitle>第20条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、土地の形状の変更、工作物の新設その他これらに類する事業を行う事業者が、その事業の実施に当たって、あらかじめ、その事業に係る環境への影響について自ら適正に調査、予測又は評価を行い、その結果に基づき、その事業に係る環境の保全について適正に配慮すること(以下「環境影響評価」という。)が、健全で快適な環境を確保する上で極めて重要であることから、環境影響評価を推進するため、必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（技術手法の向上に資する研究等）</ArticleCaption>
+            <ArticleTitle>第21条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市長は、環境影響評価に係る技術手法の向上に資する調査及び研究その他環境影響評価を科学的かつ適正に実施するために必要な調査及び研究に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第3章　環境保全型社会の実現</ChapterTitle>
+        <Article Num="22">
+          <ArticleCaption>（環境保全型社会の実現）</ArticleCaption>
+          <ArticleTitle>第22条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市、事業者及び市民は、健全で快適な環境を将来にわたって確保するため、社会経済活動その他の活動において、自主的かつ積極的に環境への配慮を行うこと等により、環境への負荷の少ない持続的に発展することができる環境保全型社会の実現に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（公共的施設の整備等）</ArticleCaption>
+          <ArticleTitle>第23条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、環境保全型社会を実現するため、環境への負荷の低減に資する交通施設(移動施設を含む。)、下水道、廃棄物の公共的な処理施設その他の環境の保全上の支障の防止に資する公共的施設の整備、公園、緑地その他の自然環境に係る施設の整備及び汚泥のしゅんせつその他の環境の保全上の支障を防止するための事業の推進に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（公共的施設の設置基準等）</ArticleCaption>
+          <ArticleTitle>第24条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、開発事業に伴う公共的施設の設置基準その他公共的施設の整備に関し必要な事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">開発事業を施行する者は、前項の基準の達成に努めるとともに、市長その他の行政機関に協力しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（都市空間の整備）</ArticleCaption>
+          <ArticleTitle>第25条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、環境保全型社会を実現するため、エネルギー資源及び水資源の効率的利用、生態系に配慮した都市緑化及び水辺の整備その他潤いと安らぎのある都市空間の整備に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（環境への負荷の低減に資する製品等の利用の促進）</ArticleCaption>
+          <ArticleTitle>第26条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、事業者に対し、物の製造、加工又は販売その他の事業活動に際して、あらかじめ、その事業活動に係る製品その他の物が使用され、又は廃棄されることによる環境への負荷について事業者が自ら評価することにより、その物に係る環境への負荷の低減について適正に配慮することができるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、環境への負荷の低減に資する製品等の利用が促進されるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第4章　市、事業者及び市民の参画及び協働</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第1節　参画及び協働による取組等</SectionTitle>
+          <Article Num="27">
+            <ArticleCaption>（健全で快適な環境の確保への取組）</ArticleCaption>
+            <ArticleTitle>第27条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">健全で快適な環境は、すべての市民の共有財産であり、市、事業者及び市民があらゆる力を尽くすことにより確保できるものであることから、市、事業者及び市民は、参画及び協働の理念に基づき、地域社会の構成員として、健全で快適な環境を確保するためにそれぞれが担うべき責務及び役割を自覚することにより、健全で快適な環境を確保するための活動にともに自主的かつ積極的に取り組むように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（健全で快適な環境の確保のための活動の推進体制の整備）</ArticleCaption>
+            <ArticleTitle>第28条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境を確保するための活動を事業者及び市民とともに推進するための体制の整備に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第2節　環境教育の推進等</SectionTitle>
+          <Article Num="29">
+            <ArticleCaption>（環境教育の理念）</ArticleCaption>
+            <ArticleTitle>第29条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">健全で快適な環境の確保に関する教育(以下「環境教育」という。)は、健全で快適な環境と人の活動との関係を認識すること及び健全で快適な環境の確保についての理解を深めることにより、環境に関する倫理が確立され、もって環境に配慮した活動が自ら実践できるように推進されなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（学習の実施）</ArticleCaption>
+            <ArticleTitle>第30条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者及び市民は、健全で快適な環境の確保のためには環境教育が重要な役割を有することを認識することにより、自ら健全で快適な環境の確保に関する学習を主体的に行い、及び当該事業者の従業者に行わせるように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（教育に係る施策の実施）</ArticleCaption>
+            <ArticleTitle>第31条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、環境教育を推進するため、次に掲げる施策を総合的かつ計画的に実施するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>(1)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">学校教育における環境教育の推進のため施策</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>(2)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境の確保に関する生涯学習の支援のための施策</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>(3)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">健全で快適な環境の確保に関する広報活動</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>(4)</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1">前3号に掲げるもののほか、環境教育の推進のために必要な施策</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（情報の提供）</ArticleCaption>
+            <ArticleTitle>第32条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、個人及び法人の権利利益の保護に配慮しつつ環境の状況その他の健全で快適な環境の確保のために必要な情報を適切に提供するように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（報告書の作成及び公表）</ArticleCaption>
+            <ArticleTitle>第33条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、環境の状況並びに健全で快適な環境の確保に関して講じた施策及び事業についての報告書を作成し、及び公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第3節　健全で快適な環境の確保に関する活動の促進</SectionTitle>
+          <Article Num="34">
+            <ArticleCaption>（民間団体等の自発的な活動の促進）</ArticleCaption>
+            <ArticleTitle>第34条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境を確保するため、事業者、市民又はこれらの者の組織する民間の団体(以下「民間団体等」という。)が自発的に行う緑化活動その他の健全で快適な環境の確保に関する活動が促進されるように必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（施設の整備等に対する補助）</ArticleCaption>
+            <ArticleTitle>第35条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境を確保するため、事業者及び市民が行う環境への負荷の低減のための施設の整備その他の健全で快適な環境を確保するための適切な措置に対する必要かつ適正な補助を行うように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（財源の確保）</ArticleCaption>
+            <ArticleTitle>第36条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境の確保に関する施策の積極的な推進を図るため、必要な財源の確保に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（顕彰等）</ArticleCaption>
+            <ArticleTitle>第37条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境を確保するための活動の一層の促進を図るため、民間団体等が健全で快適な環境を確保するために著しく貢献したと認めるときは、その業績を公表し、及びその功績を顕彰することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第4節　健全で快適な環境を確保するための施策への参画等</SectionTitle>
+          <Article Num="38">
+            <ArticleCaption>（施策への参画等）</ArticleCaption>
+            <ArticleTitle>第38条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">事業者及び市民は、市が実施する健全で快適な環境を確保するための施策が効果的に実施されるように、それぞれの役割を認識することにより、当該施策の策定及び実施に積極的に参画し、及び協力するように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（市民の参画の機会の確保）</ArticleCaption>
+            <ArticleTitle>第39条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">市は、健全で快適な環境を確保するための施策の策定及び実施に当たって、市民の参画の機会を確保するように配慮するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第5章　環境保全協定</ChapterTitle>
+        <Article Num="40">
+          <ArticleCaption>（環境保全協定の締結）</ArticleCaption>
+          <ArticleTitle>第40条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、事業活動に伴う環境への負荷の低減その他健全で快適な環境の確保のために事業者が行う自主的な活動を当該事業者と協働して促進するため、規則で定める事業所(以下「指定事業所」という。)について、指定事業所に係る事業者との間に、指定事業所において行う健全で快適な環境の確保のための活動についての協定(以下「環境保全協定」という。)を締結することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（環境保全協定の内容）</ArticleCaption>
+          <ArticleTitle>第41条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">環境保全協定は、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">環境管理体制の整備に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">環境への負荷の低減に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>(3)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">前2号に掲げるもののほか、健全で快適な環境の確保のための活動に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第6章　地球環境保全への貢献</ChapterTitle>
+        <Article Num="42">
+          <ArticleCaption>（地球環境保全に係る市等の責務）</ArticleCaption>
+          <ArticleTitle>第42条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市、事業者及び市民は、地域の環境の保全を通じて地球環境保全に貢献することを基本として、それぞれの責務及び役割を自覚することにより、協働して地球環境保全に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（地球環境保全に係る施策の推進）</ArticleCaption>
+          <ArticleTitle>第43条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、国若しくは他の地方公共団体又はこれらの機関との適切な役割分担の下に、次に掲げる地球環境保全のための施策を総合的かつ計画的に推進するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">適切な情報の提供</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">必要な施設等の整備</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>(3)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">環境の監視</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>(4)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">調査及び研究の推進</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>(5)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">人材、技術等の活用による国際貢献</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>(6)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">前各号に掲げるもののほか、地球環境保全に有益な施策</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleCaption>（市が行う事業に係る地球環境保全への配慮）</ArticleCaption>
+          <ArticleTitle>第44条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、地球環境保全に配慮するため、自ら行う事業の実施に当たっては、エネルギーの使用の合理化、水資源の有効利用、再利用の推進その他地球環境保全のための措置を積極的に導入するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleCaption>（地球環境保全に係る施策の推進体制の整備）</ArticleCaption>
+          <ArticleTitle>第45条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、自ら行う地球環境保全のための施策を推進するために必要な体制を整備するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleCaption>（事業者の地球環境保全への取組）</ArticleCaption>
+          <ArticleTitle>第46条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">事業者は、その事業活動が地球環境保全と密接に関係することを認識することにより、事業活動を行うに当たって地球環境保全に配慮するように努めるとともに、地域社会の構成員として、地域における地球環境保全のための活動に積極的に取り組むように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleCaption>（市民の地球環境保全への取組等）</ArticleCaption>
+          <ArticleTitle>第47条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市民は、その生活が地球環境保全と密接に関係することを認識することにより、エネルギーの使用の合理化、水資源の有効利用、再利用の推進その他地域における地球環境保全のための活動に積極的に取り組むように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市は、市民の自主的な取組を推進するための組織の支援その他の地域における地球環境保全のための市民の活動の支援に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第7章　神戸港の環境の保全</ChapterTitle>
+        <Article Num="48">
+          <ArticleCaption>（港湾事業者の責務）</ArticleCaption>
+          <ArticleTitle>第48条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">神戸港の区域において事業活動を行う者は、荷役その他の事業活動に伴い、貨物、荷役用具又は廃棄物(以下「貨物等」という。)が、岸壁、物揚場、道路、荷さばき地その他の港湾法第2条第5項に規定する港湾施設(以下「港湾施設」という。)又は海面に脱落し、散乱し、又は飛散することを防止するために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">神戸港の区域において海上運送法(昭和24年法律第187号)第2条第2項に規定する船舶運航事業を営む者(以下「船舶運航事業者」という。)は、船客により廃棄物が港湾施設又は海面へ投棄されないよう、船舶にごみ容器を設置し、効果的な広報を行い、その他必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>3</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">船舶運航事業者は、神戸港の区域において、船舶からの煤煙その他大気汚染の原因となるものの排出を防止するため、機関の良好な管理及び使用燃料の改善に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleCaption>（船舶の遺棄等の禁止）</ArticleCaption>
+          <ArticleTitle>第49条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">何人も、神戸港の区域において、船舶を遺棄し、又は放置してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleCaption>（遺棄船舶等の処理）</ArticleCaption>
+          <ArticleTitle>第50条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、前条の規定に違反して遺棄され、又は放置されている船舶であって、所有者又は占有者が不明であり、かつ、当該船舶が沈廃船の状態にあるものは、廃棄物と認定してこれを処理することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の廃棄物としての認定の基準及び手続その他必要な事項は、規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleCaption>（船舶の遺棄等の禁止）</ArticleCaption>
+          <ArticleTitle>第51条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">神戸港の区域において次に掲げる行為をしようとする者は、規則で定めるところにより、あらかじめ、市長に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>(1)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">汚泥その他の堆積物のしゅんせつ</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>(2)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">船舶に対する燃料用油の供給</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>(3)</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">船倉の清掃</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、前項各号に掲げる行為をしようとする者に対し、環境保全上必要な指導又は勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52">
+          <ArticleCaption>（措置命令）</ArticleCaption>
+          <ArticleTitle>第52条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、第48条第1項に規定する事業活動を行う者が同項の規定に違反して貨物等を脱落させ、散乱させ、又は飛散させることにより、神戸港の区域の環境を害しているときは、当該違反者に対し、当該貨物等の除却その他環境保全のために必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、第49条の規定に違反して遺棄され、又は放置されている船舶があるときは、当該船舶の所有者若しくは占有者又は当該船舶を遺棄し、若しくは放置した者に対し、当該船舶の除却又は処理その他必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第8章　神戸市環境保全審議会</ChapterTitle>
+        <Article Num="53">
+          <ArticleCaption>（環境保全審議会の設置）</ArticleCaption>
+          <ArticleTitle>第53条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長の附属機関として、神戸市環境保全審議会(以下「審議会」という。)を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">審議会は、市長の諮問に応じ、健全で快適な環境の確保に関する基本的事項又は重要事項を調査審議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>3</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">審議会は、健全で快適な環境の確保に関する事項に関し、市長に意見を述べることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>4</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前3項に定めるもののほか、審議会の組織及び運営に関し必要な事項は、規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第9章　補則</ChapterTitle>
+        <Article Num="54">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第54条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">市長は、この条例の施行に必要な限度において、健全で快適な環境の確保に支障を及ぼす行為を行い、又は行うおそれのある者に対し、必要な事項の報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="55">
+          <ArticleCaption>（施行細目の委任）</ArticleCaption>
+          <ArticleTitle>第55条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">この条例の施行に関し必要な事項は、規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第10章　罰則</ChapterTitle>
+        <Article Num="56">
+          <ArticleTitle>第56条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第52条の規定による命令に違反した者は、5万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>2</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第51条第1項の規定に違反して、届出をせず、又は虚偽の届出をした者は、3万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="57">
+          <ArticleTitle>第57条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則　抄</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成6年4月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行前に改正前の神戸市民の環境をまもる条例によってした処分、手続その他の行為は、この条例中これに相当する規定がある場合には、この条例の相当規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成9年3月31日条例第50号）抄">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、教育委員会規則で定める日から施行する。</Sentence>
+            <Sentence Num="2">(平成9年7月10日教委規則第2号により平成9年7月15日から施行)</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（市民の環境をまもる条例の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行前に前条の規定による改正前の神戸市民の環境をまもる条例(以下この条において「旧環境条例」という。)によってした処分、手続その他の行為は、この条例中にこれに相当する規定がある場合には、この条例の相当規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行前に旧環境条例によってした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
