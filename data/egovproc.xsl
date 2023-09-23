@@ -45,9 +45,6 @@
       class="_div_EnactStatement" style=""><xsl:value-of select="."/></div></section>
   </xsl:template>
 
-  <xsl:template match="TOC">
-  </xsl:template>
-
   <xsl:template match="MainProvision">
     <xsl:apply-templates select="Part"/>
     <xsl:apply-templates select="Chapter"/>
@@ -65,6 +62,7 @@
 
   <xsl:template match="Chapter">
     <xsl:apply-templates select="ChapterTitle"/>
+    <xsl:apply-templates select="Section"/>
     <xsl:apply-templates select="Article"/>
   </xsl:template>
 
@@ -74,6 +72,13 @@
   </xsl:template>
 
   <xsl:template match="Section">
+    <xsl:apply-templates select="SectionTitle"/>
+    <xsl:apply-templates select="Article"/>
+  </xsl:template>
+
+  <xsl:template match="SectionTitle">
+   <section id="Mp-Pa_1-Ch_2-Se_1" class="Section"><div style="margin-left: 4em; font-weight: bold;"
+       class="SectionTitle _div_SectionTitle"><xsl:value-of select="."/></div></section>
   </xsl:template>
 
   <xsl:template match="Article">
@@ -112,17 +117,10 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="Section">
-  </xsl:template>
-
   <xsl:template match="Item">
-    <div id="Mp-At_2-Pr_1-It_1" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence">
-      <span style="font-weight: bold;"><xsl:value-of select="ItemTitle"/></span>　<xsl:value-of select="ItemSentence"/>
-    </div>
-  </xsl:template>
-
-  <xsl:template match="ItemSentence">
-    　<xsl:value-of select="Sentence"/>
+    <div id="Mp-At_2-Pr_1-It_1" style="margin-left: 2em; text-indent: -1em;"
+      class="_div_ItemSentence"><span style="font-weight: bold;"><xsl:value-of
+      select="ItemTitle"/></span>　<xsl:value-of select="ItemSentence"/></div>
   </xsl:template>
 
   <xsl:template match="SupplProvision">
@@ -140,28 +138,33 @@
   </xsl:template>
 
   <xsl:template match="TOC">
-  　<xsl:apply-templates select="TOCLabel"/>
-  　<xsl:apply-templates select="TOCPart"/>
-  　<xsl:apply-templates select="TOCChapter"/>
-  　<xsl:apply-templates select="TOCSection"/>
-  　<xsl:apply-templates select="TOCArticle"/>
+    <section id="TOC" class="active TOC">
+      <xsl:apply-templates select="TOCLabel"/>
+    　<xsl:apply-templates select="TOCPart"/>
+    　<xsl:apply-templates select="TOCChapter"/>
+    　<xsl:apply-templates select="TOCSection"/>
+    　<xsl:apply-templates select="TOCArticle"/>
+    </section>
   </xsl:template>
 
   <xsl:template match="TOCLabel">
+    <div class="_div_TOCLabel"><xsl:value-of select="."/></div>
   </xsl:template>
 
   <xsl:template match="TOCPart">
   </xsl:template>
 
   <xsl:template match="TOCChapter">
-    <span style="font-weight: bold;"><xsl:value-of
-      select="ChapterTitle"/></span>
+    <div class="_div_ChapterTitle" style="font-weight: bold;"><xsl:value-of
+      select="ChapterTitle"/></div>
+    <xsl:apply-templates select="TOCSection"/>
+    <xsl:apply-templates select="TOCArticle"/>
   </xsl:template>
 
   <xsl:template match="TOCSection">
-    <span style="font-weight: bold;"><xsl:value-of
-      select="SectionTitle"/></span><xsl:apply-templates
-        select="TOCArticle"/>
+    <div class="_div_TOCChapter" style="margin-left: 1em;"><xsl:value-of
+      select="SectionTitle"/></div>
+    <xsl:apply-templates select="TOCArticle"/>
   </xsl:template>
 
   <xsl:template match="TOCArticle">
