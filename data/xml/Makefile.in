@@ -205,13 +205,11 @@ top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 XMLDATADIR = $(top_srcdir)/@top_XMLDATADIR@
 HTMLOUTDIR = $(top_builddir)/@top_HTMLOUTDIR@
-baselist = \
-	280003/281000/k302RG00000631 \
-	280003/281000/k302RG00001279 \
-	280003/281000/k302RG00001446 \
-	280003/281000/k302RG00001524 \
-	280003/281000/k302RG00001848
+baselist = $(shell cat $(srcdir)/xmllist.txt | $(AWK) '{print $$1"/"$$3"/"$$5" "}')
+EXTRA_DIST = template.xml xmllist.txt \
+	$(addsuffix .xml, $(baselist))
 
+DISTCLEANFILES = Makefile.sub
 SRCS = $(addprefix $(XMLDATADIR)/, $(addsuffix .xml,  $(baselist)))
 DESTS = $(addprefix $(HTMLOUTDIR)/, $(addsuffix .html, $(baselist)))
 SUFFIXES = .xml .html
@@ -317,6 +315,7 @@ clean-generic:
 distclean-generic:
 	-test -z "$(CONFIG_CLEAN_FILES)" || rm -f $(CONFIG_CLEAN_FILES)
 	-test . = "$(srcdir)" || test -z "$(CONFIG_CLEAN_VPATH_FILES)" || rm -f $(CONFIG_CLEAN_VPATH_FILES)
+	-test -z "$(DISTCLEANFILES)" || rm -f $(DISTCLEANFILES)
 
 maintainer-clean-generic:
 	@echo "This command is intended for maintainers to use"

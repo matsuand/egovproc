@@ -4,3 +4,5 @@
 #              Written by matsuand
 #
 SUBDIRS=xml
+
+EXTRA_DIST = egovproc.xsl

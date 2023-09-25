@@ -6,7 +6,6 @@ rm -f Makefile.sub
 echo "#"              >Makefile.sub
 echo "# Makefile.sub">>Makefile.sub
 echo "#"             >>Makefile.sub
-echo "# \$srclist: $srclist">>Makefile.sub
 
 for f in $srclist; do
     ff=`echo $f | sed 's/^\.\///'`

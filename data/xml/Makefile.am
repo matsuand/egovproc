@@ -7,12 +7,10 @@ srcdir  = @srcdir@
 XMLDATADIR = $(top_srcdir)/@top_XMLDATADIR@
 HTMLOUTDIR = $(top_builddir)/@top_HTMLOUTDIR@
 
-baselist = \
-	280003/281000/k302RG00000631 \
-	280003/281000/k302RG00001279 \
-	280003/281000/k302RG00001446 \
-	280003/281000/k302RG00001524 \
-	280003/281000/k302RG00001848
+baselist = $(shell cat $(srcdir)/xmllist.txt | $(AWK) '{print $$1"/"$$3"/"$$5" "}')
+EXTRA_DIST = template.xml xmllist.txt \
+	$(addsuffix .xml, $(baselist))
+DISTCLEANFILES = Makefile.sub
 
 SRCS  = $(addprefix $(XMLDATADIR)/, $(addsuffix .xml,  $(baselist)))
 DESTS = $(addprefix $(HTMLOUTDIR)/, $(addsuffix .html, $(baselist)))

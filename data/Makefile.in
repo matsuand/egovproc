@@ -262,6 +262,7 @@ top_srcdir = @top_srcdir@
 #              Written by matsuand
 #
 SUBDIRS = xml
+EXTRA_DIST = egovproc.xsl
 all: all-recursive
 
 .SUFFIXES:
