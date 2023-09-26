@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="030" Year="14" PromulgateMonth="10" PromulgateDay="21">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしかいぎいんていすうおよびかくせんきょくせんしゅつぎいんすうにかんするじょうれい" Abbrev="" AbbrevKana="">神戸市会議員定数及び各選挙区選出議員数に関する条例</LawTitle>
+    <EnactStatement>平成14年10月21日 条例第30号</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（議員の定数）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">地方自治法(昭和22年法律第67号)第91条第1項の規定により、神戸市会の議員の定数は、65人とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（各選挙区において選挙すべき議員の数）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">公職選挙法(昭和25年法律第100号)第15条第8項の規定により、各選挙区において選挙すべき議員の数は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+           <TableStruct>
+             <Table>
+               <TableHeaderRow BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                 <TableHeaderColumn>
+                   <Sentence Num="1">選挙区</Sentence>
+                 </TableHeaderColumn>
+                 <TableHeaderColumn>
+                   <Sentence Num="1">議員数</Sentence>
+                 </TableHeaderColumn>
+               </TableHeaderRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">東灘区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">9人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">灘区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">6人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">中央区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">6人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">兵庫区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">5人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">北区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">9人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">長田区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">4人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">須磨区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">7人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">垂水区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">9人</Sentence>
+                 </TableColumn>
+               </TableRow>
+               <TableRow>
+                 <TableColumn>
+                   <Sentence Num="1">西区</Sentence>
+                 </TableColumn>
+                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                   <Sentence Num="1">10人</Sentence>
+                 </TableColumn>
+               </TableRow>
+             </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成15年1月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（市会議員各選挙区選出議員数条例の廃止）</ArticleCaption>
+        <ArticleTitle>2</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">神戸市会議員各選挙区選出議員数条例(平成2年12月条例第19号)は、廃止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>3</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">神戸市会の議員の定数及び各選挙区において選挙すべき議員の数については、この条例の施行の日以後初めてその期日を告示される一般選挙までの間、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（人口の特例）</ArticleCaption>
+        <ArticleTitle>4</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">平成23年4月10日に行われる神戸市会議員の一般選挙において選挙すべき神戸市会の議員の定数及び各選挙区において選挙すべき議員の数については、地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律(平成22年法律第68号)附則第2条第1項の規定により、平成17年の国勢調査の結果による人口によることとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成18年3月31日条例第69号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、次の一般選挙から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成23年3月8日条例第22号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成26年7月9日条例第11号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（適用区分）</ArticleCaption>
+        <ArticleTitle>2</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例による改正後の神戸市会議員定数及び各選挙区選出議員数に関する条例の規定は、この条例の施行の日以後初めてその期日を告示される一般選挙から適用し、当該一般選挙の期日の告示の日の前日までにその期日を告示される選挙については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成30年7月6日条例第5号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（適用区分）</ArticleCaption>
+        <ArticleTitle>2</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例による改正後の神戸市会議員定数及び各選挙区選出議員数に関する条例の規定は、この条例の施行の日以後初めてその期日を告示される一般選挙から適用し、当該一般選挙の期日の告示の日の前日までにその期日を告示される選挙については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（令和4年6月23日条例第1号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（適用区分）</ArticleCaption>
+        <ArticleTitle>2</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例による改正後の神戸市会議員定数及び各選挙区選出議員数に関する条例の規定は、この条例の施行の日以後初めてその期日を告示される一般選挙から適用し、当該一般選挙の期日の告示の日の前日までにその期日を告示される選挙については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
