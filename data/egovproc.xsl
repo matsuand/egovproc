@@ -101,6 +101,7 @@
   <xsl:template match="Paragraph">
     <xsl:apply-templates select="ParagraphSentence"/>
     <xsl:apply-templates select="Item"/>
+    <xsl:apply-templates select="TableStruct"/>
   </xsl:template>
 
   <xsl:template match="ParagraphSentence">
@@ -121,6 +122,37 @@
     <div id="Mp-At_2-Pr_1-It_1" style="margin-left: 2em; text-indent: -1em;"
       class="_div_ItemSentence"><span style="font-weight: bold;"><xsl:value-of
       select="ItemTitle"/></span>　<xsl:value-of select="ItemSentence"/></div>
+  </xsl:template>
+
+  <xsl:template match="TableStruct">
+    <xsl:apply-templates select="Table"/>
+  </xsl:template>
+
+  <xsl:template match="Table">
+    <table class="type1"><tbody>
+      <xsl:apply-templates select="TableHeaderRow"/>
+      <xsl:apply-templates select="TableRow"/>
+    </tbody></table>
+  </xsl:template>
+
+  <xsl:template match="TableHeaderRow">
+    <tr class="TableHeaderRow">
+      <xsl:apply-templates select="TableHeaderColumn"/>
+    </tr>
+  </xsl:template>
+
+  <xsl:template match="TableHeaderColumn">
+    <th><div><xsl:value-of select="Sentence"/></div></th>
+  </xsl:template>
+
+  <xsl:template match="TableRow">
+    <tr class="TableRow">
+      <xsl:apply-templates select="TableColumn"/>
+    </tr>
+  </xsl:template>
+
+  <xsl:template match="TableColumn">
+    <td><div><xsl:value-of select="Sentence"/></div></td>
   </xsl:template>
 
   <xsl:template match="SupplProvision">
