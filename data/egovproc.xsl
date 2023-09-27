@@ -119,9 +119,15 @@
   </xsl:template>
 
   <xsl:template match="Item">
-    <div id="Mp-At_2-Pr_1-It_1" style="margin-left: 2em; text-indent: -1em;"
-      class="_div_ItemSentence"><span style="font-weight: bold;"><xsl:value-of
-      select="ItemTitle"/></span>　<xsl:value-of select="ItemSentence"/></div>
+    <div style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence"><span
+      style="font-weight: bold;"><xsl:value-of select="ItemTitle"/></span>　<xsl:value-of select="ItemSentence"/>
+      <xsl:apply-templates select="Subitem1"/>
+    </div>
+  </xsl:template>
+
+  <xsl:template match="Subitem1">
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence"><span
+      style="font-weight: bold;"><xsl:value-of select="Subitem1Title"/></span>　<xsl:value-of select="Subitem1Sentence"/></div>
   </xsl:template>
 
   <xsl:template match="TableStruct">
