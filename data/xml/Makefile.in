@@ -408,7 +408,8 @@ uninstall-am:
 all: $(DESTS)
 
 -include Makefile.sub
-Makefile.sub: $(top_srcdir)/bin/submake.sh $(srcdir)/Makefile.am $(top_builddir)/config.log
+Makefile.sub: $(top_srcdir)/bin/submake.sh $(srcdir)/Makefile.am \
+	$(srcdir)/xmllist.txt $(top_builddir)/config.log
 	@$(SHELL) $(top_srcdir)/bin/submake.sh $(baselist)
 
 # Tell versions [3.59,3.63) of GNU make to not export all variables.

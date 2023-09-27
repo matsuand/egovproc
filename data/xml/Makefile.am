@@ -23,5 +23,6 @@ SUFFIXES = .xml .html
 all: $(DESTS)
 
 -include Makefile.sub
-Makefile.sub: $(top_srcdir)/bin/submake.sh $(srcdir)/Makefile.am $(top_builddir)/config.log
+Makefile.sub: $(top_srcdir)/bin/submake.sh $(srcdir)/Makefile.am \
+	$(srcdir)/xmllist.txt $(top_builddir)/config.log
 	@$(SHELL) $(top_srcdir)/bin/submake.sh $(baselist)
