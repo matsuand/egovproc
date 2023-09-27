@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="008" Year="28" PromulgateMonth="06" PromulgateDay="29">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="こうべしじゅうきょとうにおけるはいきぶつそのたのもののたいせきによるちいきのふりょうなせいかつかんきょうのかいぜんにかんするじょうれい" Abbrev="" AbbrevKana="">神戸市住居等における廃棄物その他の物の堆積による地域の不良な生活環境の改善に関する条例</LawTitle>
+    <EnactStatement>平成28年6月29日 条例第8号</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、廃棄物その他の物の堆積により地域の生活環境に深刻な影響を及ぼしている建物等の不良な状態を改善するために必要な事項を定めることにより、安全で安心できる快適な地域の生活環境の保全及び公衆衛生の向上を図り、併せて市民が相互に支え合う地域社会を構築することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">不良な状態　廃棄物その他の物の堆積により、次のいずれかの状態が生じているなど、地域の衛生又は生活環境上支障が生じている状態をいう。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>ア</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1">悪臭の発生</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1">ねずみ、はえその他の衛生上有害な虫その他の動物の発生</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ウ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1">火災が発生するおそれがある状態</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">建物等　市の区域内に存する建物及びその周辺の土地をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">堆積者　廃棄物その他の物を堆積することにより、自らが居住し、又は占有する建物等に不良な状態を発生させている者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">所有者等　建物等を所有し、占有し、又は管理する者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>(5)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">市民等　市民及び堆積者をいう。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（市の責務）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、市民等が居住する建物等が不良な状態にあり、又はそのおそれがあるときは、市民等、関係機関等と協働して、その原因、経緯等の検証に努め、第1条の目的を達成するために必要な対策を総合的に講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（市民等の責務）</ArticleCaption>
+        <ArticleTitle>第4条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、建物等における不良な状態の発生の予防に努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市民等は、建物等において不良な状態を生じさせたときは、速やかにその状態の解消に努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">不良な状態にある建物等の近隣地域に居住する市民及び当該建物等に係る堆積者の親族で規則で定める者は、当該堆積者の状況を理解するとともに、不良な状態の発生の予防及びその解消のための取組に協力し、及び市民が相互に支え合う地域社会の構築に寄与するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（所有者等の責務）</ArticleCaption>
+        <ArticleTitle>第5条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">建物等の所有者等(当該建物等に係る堆積者を除く。以下同じ。)は、その所有し、占有し、又は管理する建物等が不良な状態とならないよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">建物等の所有者等は、その所有し、占有し、又は管理する建物等が不良な状態となった場合においては、当該建物等に係る堆積者と協力し、及び不良な状態を解消するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">建物等の所有者等は、第1条の目的を達成するため、市が実施する活動に協力するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（相互の協力）</ArticleCaption>
+        <ArticleTitle>第6条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市、市民等、建物等の所有者等及び関係機関は、この条例の目的を達成するため、相互にその果たす役割を理解し、及び協力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（調査）</ArticleCaption>
+        <ArticleTitle>第7条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、この条例の施行に必要な限度において、建物等における不良な状態の内容、当該建物等の使用及び管理の状況及び当該建物等に係る堆積者の居住の状況、親族関係、就労の状況、心身の状態、保健福祉に関する制度の利用状況その他の当該堆積者に関する事項について、当該堆積者に対して報告を求め、又は当該建物の所有者等その他関係者に対して必要な調査をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、堆積者を確知することができないときは、不良な状態にある建物等の所有者等その他関係者に対し、前項に規定する事項について必要な調査をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1項に規定する事項に関する情報であってこの条例に基づく事務以外の事務のために利用する目的で保有するものについて、この条例の施行に必要な限度において、その保有するに当たって特定された利用目的以外の目的のために利用し、又は他の実施機関(神戸市個人情報保護法の施行等に関する条例(令和4年12月条例第17号)第2条第1項に規定する実施機関をいう。)に対して、必要な情報の提供を求め、若しくは情報を提供することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>4</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">他の実施機関は、前項の規定により市長から情報提供を求められたときは、当該実施機関が保有する情報を提供することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>5</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等が不良な状態にあり、又はそのおそれがあると認めるときは、この条例の施行に必要な限度において、その職員に、当該建物等に立ち入り、その状態を調査させ、又は当該建物等に居住する者若しくは当該建物等の所有者等その他関係者(以下「調査対象者」という。)に質問させることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>6</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定により職員を建物等に立ち入らせようとするときは、当該建物等に係る堆積者又は当該建物等の所有者等にその旨を通知しなければならない。</Sentence>
+            <Sentence Num="2">ただし、当該堆積者又は当該所有者等にその旨を通知することが困難であるときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>7</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第5項の規定による立入り、調査又は質問(以下「立入調査等」という。)を行う職員は、その身分を示す証明書を携帯し、調査対象者から請求があったときは、これを提示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>8</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">立入調査等の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>9</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、調査対象者が堆積者であることが明らかであると認める場合又は調査対象者が所有者等である場合において、当該調査対象者が正当な理由なく立入調査等を拒み、妨げ、又は忌避したときは、その旨及び次に掲げる事項を公表することができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">立入調査等に従わない者の氏名及び住所(法人にあっては、名称及び代表者の氏名並びに主たる事務所の所在地)</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">立入調査等に係る建物等の所在地</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">前2号に掲げるもののほか、市長が必要があると認める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="10">
+          <ParagraphNum>10</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定による公表をしようとするときは、あらかじめ当該公表に係る者にその理由を通知し、意見を述べる機会を与えなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（関係機関等との連携）</ArticleCaption>
+        <ArticleTitle>第8条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、この条例の施行のために必要があると認めるときは、他の地方公共団体の長、警察その他の関係機関に対して、堆積者及び所有者等の情報の提供その他市長が特に必要があると認める事項について協力を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定に基づく協力を得るために、この条例の施行に必要な限度において、同項に定める者に情報を提供することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（助言又は指導）</ArticleCaption>
+        <ArticleTitle>第9条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等が不良な状態にあると認めるときは、当該建物等に係る堆積者に対し、これを解消するために必要な助言又は指導を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等が不良な状態にあると認める場合であって、必要があると認めるときは、当該建物等の所有者等に対し、必要な範囲内で助言又は指導を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前2項の助言又は指導を行うに当たっては、学識経験者に意見を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（勧告）</ArticleCaption>
+        <ArticleTitle>第10条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前条第1項又は第2項の助言又は指導を行ったにもかかわらず、なお建物等が不良な状態にあると認めるときは、当該助言又は指導を受けた堆積者又は所有者等(不良な状態を解消するために必要な権限を有する者に限る。)に対し、相当の期限を定めてその状態を解消するために必要な措置をとるべきことを勧告することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の勧告を行うに当たっては、学識経験者の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1項の勧告を受けた者が正当な理由がなくその勧告に係る措置をとらなかったときは、その旨及び次に掲げる事項を公表することができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>(1)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">勧告に従わない者の氏名及び住所(法人にあっては、名称及びその代表者の氏名並びに主たる事務所の所在地)</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>(2)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">不良な状態にある建物等の所在地</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>(3)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">勧告によりとるべきこととされた必要な措置の内容</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>(4)</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">前3号に掲げるもののほか、市長が必要と認める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>4</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定による公表を行おうとするときは、あらかじめ当該公表に係る者にその理由を通知し、意見を述べる機会を与えなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（命令）</ArticleCaption>
+        <ArticleTitle>第11条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前条の勧告をしたにもかかわらず、なお建物等が不良な状態にある場合であって、当該建物等に係る近隣の住民の生活環境が著しく損なわれていると認めるときは、当該勧告を受けた者に対し、相当の期限を定めてその勧告に係る措置をとるべきことを命じることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の命令を行うに当たっては、あらかじめ学識経験者の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1項の命令をした場合においては、その旨を公表することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（代執行）</ArticleCaption>
+        <ArticleTitle>第12条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前条第1項の措置を命じられた者が命令に従わないため行政代執行法(昭和23年法律第43号)第2条の代執行を行うに当たっては、あらかじめ学識経験者の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（応急的危険回避措置）</ArticleCaption>
+        <ArticleTitle>第13条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等における不良な状態に起因して、市民の生命、身体又は財産に危害が及ぶことを防止するために緊急の必要があると認めるときは、これを避けるために必要最小限の措置をとることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項の措置を行おうとする者は、その身分を示す証明書を携帯し、関係者から請求があったときは、これを提示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第1項の措置に要した費用は、当該措置をとった建物等に係る堆積者又は所有者等の負担とすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（支援又は対策の実施）</ArticleCaption>
+        <ArticleTitle>第14条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等の不良な状態の適正化のために、当該建物等が存する地域の実情に応じ、区長にその対策等に関する会議を開催させること等により、必要な支援又は対策を実施するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（経済的支援）</ArticleCaption>
+        <ArticleTitle>第15条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、建物等が不良な状態にあると認める場合であって、当該建物等の近隣の住民の生活が損なわれており、かつ当該建物等に係る堆積者が経済的理由により自ら不良な状態を解消することが困難であると認めるときは、当該堆積者の申出に基づき、当該堆積者に対し、不良な状態の解消のために必要な経済的支援を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、前項の規定による経済的支援の実施に当たり、必要な限度において、支援の対象者の資産その他の必要な事項について調査を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">市長は、第1項の規定により経済的支援を行うときは、あらかじめ学識経験者の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（過料）</ArticleCaption>
+        <ArticleTitle>第16条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">正当な理由がないのに、立入調査等を拒み、妨げ、若しくは忌避し、又は第11条第1項の命令に違反した者は、5万円以下の過料に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（施行細目の委任）</ArticleCaption>
+        <ArticleTitle>第17条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行に関し必要な事項は、規則で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成28年8月1日から施行する。</Sentence>
+            <Sentence Num="2">ただし、第9条から第13条までの規定は、同年10月1日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（令和4年12月20日条例第17号）抄">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>1</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、デジタル社会の形成を図るための関係法律の整備に関する法律(令和3年法律第37号)附則第1条第7号に掲げる規定(同法第51条の規定に限る。)の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphSentence>
+            <Sentence Num="1">(施行の日＝令和5年4月1日)</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
