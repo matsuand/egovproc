@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinesterialOrdinance" Num="035" Year="23" PromulgateMonth="12" PromulgateDay="08">
+  <LawNum></LawNum>
+  <LawBody>
+    <LawTitle Kana="あきたかたしぎかいぎいんおよびあきたかたしちょうのせんきょにおけるせんきょうんどうひようのこうひふたんにかんするじょうれい" Abbrev="" AbbrevKana="">安芸高田市議会議員及び安芸高田市長の選挙における選挙運動費用の公費負担に関する条例</LawTitle>
+    <EnactStatement>平成23年12月8日 条例第35号</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第1条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公職選挙法(昭和25年法律第100号。以下「法」という。)第141条第8項、第142条第11項及び第143条第15項の規定に基づき、安芸高田市議会議員及び安芸高田市長の選挙における法第141条第1項の自動車(以下「選挙運動用自動車」という。)の使用、法第142条第1項第6号のビラ(以下「選挙運動用ビラ」という。)の作成及び法第143条第1項第5号のポスター(以下「選挙運動用ポスター」という。)の作成の公費負担に関し必要な事項を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（選挙運動用自動車の使用の公費負担）</ArticleCaption>
+        <ArticleTitle>第2条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">安芸高田市議会議員及び安芸高田市長の選挙における候補者(以下「候補者」という。)は、第12条第1項に定める額の範囲内で、選挙運動用自動車を無料で使用することができる。</Sentence>
+            <Sentence Num="2">ただし、当該候補者に係る供託物が法第93条第1項(同条第2項において準用する場合を含む。)の規定により市に帰属することとならない場合に限る。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（選挙運動用自動車の使用の契約締結の届出）</ArticleCaption>
+        <ArticleTitle>第3条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">前条の規定の適用を受けようとする者は、道路運送法(昭和26年法律第183号)第3条第1号ハに規定する一般乗用旅客自動車運送事業を経営する者(以下「一般乗用旅客自動車運送事業者」という。)その他の者(次条第2号に規定する契約を締結する場合には、当該適用を受けようとする者と生計を同じくする親族のうち、当該契約に係る業務を業として行う者以外の者を除く。)との間において選挙運動用自動車の使用に関し有償契約を締結し、安芸高田市選挙管理委員会(以下「委員会」という。)が定めるところにより、その旨を委員会に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（選挙運動用自動車の使用における公費の支払）</ArticleCaption>
+        <ArticleTitle>第4条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、候補者(前条の規定による届出をした者に限る。)が同条の契約に基づき当該契約の相手方である一般乗用旅客自動車運送事業者その他の者(以下「一般乗用旅客自動車運送事業者等」という。)に支払うべき金額のうち、次の各号に掲げる区分に応じ当該各号に定める金額を、第2条ただし書に規定する要件に該当する場合に限り、当該一般乗用旅客自動車運送事業者等からの請求に基づき、当該一般乗用旅客自動車運送事業者等に対し支払う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Item Num="1">
+          <ItemTitle>(1)</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1">当該契約が一般乗用旅客自動車運送事業者との運送契約(以下「一般運送契約」という。)である場合　当該選挙運動用自動車(同一の日において一般運送契約により2台以上の選挙運動用自動車が使用される場合には、当該候補者が指定するいずれか1台の選挙運動用自動車に限る。)のそれぞれにつき、選挙運動用自動車として使用された各日についてその使用に対し支払うべき金額(当該金額が36,300円を超える場合には、36,300円)の合計金額</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>(2)</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1">当該契約が一般運送契約以外の契約である場合　次に掲げる区分に応じ、それぞれに定める金額</Sentence>
+          </ItemSentence>
+          <Subitem1 Num="1">
+            <Subitem1Title>ア</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1">当該契約が選挙運動用自動車の借入れ契約である場合　当該選挙運動用自動車(同一の日において選挙運動用自動車の借入れ契約により2台以上の選挙運動用自動車が使用される場合には、当該候補者が指定するいずれか1台の選挙運動用自動車に限る。)のそれぞれにつき、選挙運動用自動車として使用された各日についてその使用に対し支払うべき金額(当該金額が16,100円を超える場合には、16,100円)の合計金額</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="2">
+            <Subitem1Title>イ</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1">当該契約が選挙運動用自動車の燃料の供給に関する契約である場合　当該契約に基づき当該選挙運動用自動車に供給した燃料の代金(当該選挙運動用自動車(これに代わり使用される他の選挙運動用自動車を含む。)が既に前条の届出に係る契約に基づき供給を受けた燃料の代金と合算して、7,700円に当該候補者につき法第86条の4第1項、第2項、第5項、第6項又は第8項の規定による候補者の届出のあった日から当該選挙の期日の前日(法第100条第4項の規定により投票を行わないこととなったときは、その事由が生じた日。以下同じ。)までの日数から前号の契約が締結されている日数を除いた日数を乗じて得た金額に達するまでの部分の金額であることにつき、委員会が定めるところにより、当該候補者からの申請に基づき、委員会が確認したものに限る。)</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+          <Subitem1 Num="3">
+            <Subitem1Title>ウ</Subitem1Title>
+            <Subitem1Sentence>
+              <Sentence Num="1">当該契約が選挙運動用自動車の運転手の雇用に関する契約である場合　当該選挙運動用自動車の運転手(同一の日において2人以上の選挙運動用自動車の運転手が雇用される場合には、当該候補者が指定するいずれか1人の運転手に限る。)のそれぞれにつき、選挙運動用自動車の運転業務に従事した各日についてその勤務に対し支払うべき報酬の額(当該報酬の額が12,500円を超える場合には、12,500円)の合計金額</Sentence>
+            </Subitem1Sentence>
+          </Subitem1>
+        </Item>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（選挙運動用自動車の使用の契約の指定）</ArticleCaption>
+        <ArticleTitle>第5条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">前条の場合において、選挙運動用自動車の使用に関し同一の日につき同条第1号に定める契約と同条第2号に定める契約とのいずれもが締結されているときは、当該日については、これらの号に定める契約のうち当該候補者が指定するいずれか一の号に定める契約のみが締結されているものとみなして、同条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（選挙運動用ビラの作成の公費負担）</ArticleCaption>
+        <ArticleTitle>第6条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">候補者は、第12条第2項に定める額の範囲内で、選挙運動用ビラを無料で作成することができる。この場合においては、第2条ただし書の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（選挙運動用ビラの作成の契約締結の届出）</ArticleCaption>
+        <ArticleTitle>第7条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">前条の規定の適用を受けようとする者は、ビラの作成を業とする者(次条において「ビラ作成業者」という。)との間において選挙運動用ビラの作成に関し有償契約を締結し、委員会が定めるところにより、その旨を委員会に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（選挙運動用ビラの作成における公費の支払）</ArticleCaption>
+        <ArticleTitle>第8条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、候補者(前条の規定による届出をした者に限る。)が同条の契約に基づき当該契約の相手方であるビラ作成業者に支払うべき金額のうち、当該契約に基づき作成された選挙運動用ビラの1枚当たりの作成単価(当該作成単価が7円73銭を超える場合には、7円73銭)に当該選挙運動用ビラの作成枚数(当該候補者を通じて法第142条第1項第6号に定める枚数の範囲内のものであることにつき、委員会が定めるところにより、当該候補者からの申請に基づき、委員会が確認したものに限る。)を乗じて得た金額を、第6条後段において準用する第2条ただし書に規定する要件に該当する場合に限り、当該ビラ作成業者からの請求に基づき、当該ビラ作成業者に対し支払う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（選挙運動用ポスターの作成の公費負担）</ArticleCaption>
+        <ArticleTitle>第9条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">候補者は、第12条第3項に定める額の範囲内で、選挙運動用ポスターを無料で作成することができる。この場合においては、第2条ただし書の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（選挙運動用ポスターの作成の契約締結の届出）</ArticleCaption>
+        <ArticleTitle>第10条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">前条の規定の適用を受けようとする者は、ポスターの作成を業とする者(以下「ポスター作成業者」という。)との間において選挙運動用ポスターの作成に関し有償契約を締結し、委員会が定めるところにより、その旨を委員会に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（選挙運動用ポスターの作成における公費の支払）</ArticleCaption>
+        <ArticleTitle>第11条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">市は、候補者(前条の規定による届出をした者に限る。)が同条の契約に基づき当該契約の相手方であるポスター作成業者に支払うべき金額のうち、当該契約に基づき作成された選挙運動用ポスターの1枚当たりの作成単価(当該作成単価が、541円31銭に当該選挙が行われる区域におけるポスター掲示場(安芸高田市の議会の議員及び長の選挙におけるポスター掲示場の設置に関する条例(平成16年安芸高田市条例第5号)第1条の規定により設置されたポスター掲示場をいう。以下同じ。)の数を乗じて得た金額に105,417円を加えた金額を当該選挙が行われる区域におけるポスター掲示場の数で除して得た金額(1円未満の端数がある場合には、その端数は1円とする。以下「単価の限度額」という。)を超える場合には、当該単価の限度額)に当該選挙運動用ポスターの作成枚数(当該候補者を通じて当該選挙が行われる区域におけるポスター掲示場の数に相当する数の範囲内のものであることにつき、委員会が定めるところにより、当該候補者からの申請に基づき、委員会が確認したものに限る。)を乗じて得た金額を、第9条後段において準用する第2条ただし書に規定する要件に該当する場合に限り、当該ポスター作成業者からの請求に基づき、当該ポスター作成業者に対し支払う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（公費負担の限度額）</ArticleCaption>
+        <ArticleTitle>第12条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">第2条の規定により選挙運動用自動車を使用する場合における公費負担の限度額は、候補者1人について、36,300円に、その者につき法第86条の4第1項、第2項、第5項、第6項又は第8項の規定による候補者の届出のあった日から当該選挙の期日の前日までの日数を乗じて得た金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>2</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第6条の規定により選挙運動用ビラを作成する場合における公費負担の限度額は、候補者1人について、7円73銭に選挙運動用ビラの作成枚数(当該作成枚数が法第142条第1項第6号に定める枚数を超える場合には、同号に定める枚数)を乗じて得た金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>3</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第9条の規定により選挙運動用ポスターを作成する場合における公費負担の限度額は、候補者1人について、単価の限度額に選挙運動用ポスターの作成枚数(当該作成枚数が、当該選挙が行われる区域におけるポスター掲示場の数に相当する数を超える場合には、当該相当する数)を乗じて得た金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（委任）</ArticleCaption>
+        <ArticleTitle>第13条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例の施行に関し必要な事項は、委員会が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行し、安芸高田市議会の議員の選挙にあってはこの条例の公布の日(以下「公布日」という。)以後その期日を告示される一般選挙から、安芸高田市長の選挙にあっては公布日以後その期日を告示される選挙から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成28年6月10日条例第19号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（平成30年12月21日条例第39号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、平成31年3月1日から施行し、この条例による改正後の安芸高田市議会議員及び安芸高田市長の選挙における選挙運動費用の公費負担に関する条例の規定は、この条例の施行の日(以下「施行日」という。)以後その期日を告示される選挙について適用し、施行日の前日までにその期日を告示された選挙については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="（令和4年6月10日条例第21号）">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <Paragraph Num="1">
+          <ParagraphSentence>
+            <Sentence Num="1">この条例は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
