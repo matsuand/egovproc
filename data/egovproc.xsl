@@ -90,32 +90,49 @@
   </xsl:template>
 
   <xsl:template match="ArticleCaption">
-    <div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption"><xsl:value-of select="."/>
-    </div>
+    <div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption"><xsl:value-of
+      select="."/></div>
   </xsl:template>
 
   <xsl:template match="ArticleTitle">
-    <!-- Should be processed later in ParagraphSentence -->
+    <xsl:choose>
+      <xsl:when test="not(following-sibling::Paragraph)">
+        <div style="margin-left: 1em; text-indent: -1em;" id="Mp-At_1-Pr_1" class="_div_ArticleTitle">
+          <span style="font-weight: bold;"><xsl:value-of select="."/></span>
+        </div>
+      </xsl:when>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template match="Paragraph">
+    <xsl:choose>
+      <xsl:when test="@Num = '1'">
+        <div style="margin-left: 1em; text-indent: -1em;" id="Mp-At_1-Pr_1" class="_div_ArticleTitle">
+          <span style="font-weight: bold;"><xsl:value-of
+            select="ancestor::Article/ArticleTitle"/></span>　
+          <xsl:apply-templates select="ParagraphSentence"/>
+          <xsl:apply-templates select="Item"/>
+          <xsl:apply-templates select="TableStruct"/>
+        </div>
+      </xsl:when>
+      <xsl:otherwise>
+        <div><span style="font-weight: bold;"><xsl:value-of select="ParagraphNum"/></span>　
+          <xsl:apply-templates select="ParagraphSentence"/>
+          <xsl:apply-templates select="Item"/>
+          <xsl:apply-templates select="TableStruct"/>
+        </div>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="Paragraph_inner">
     <xsl:apply-templates select="ParagraphSentence"/>
     <xsl:apply-templates select="Item"/>
     <xsl:apply-templates select="TableStruct"/>
   </xsl:template>
 
   <xsl:template match="ParagraphSentence">
-    <xsl:choose>
-      <xsl:when test="../@Num = '1'">
-        <div style="margin-left: 1em; text-indent: -1em;" id="Mp-At_1-Pr_1" class="_div_ArticleTitle">
-          <span style="font-weight: bold;"><xsl:value-of
-            select="ancestor::Article/ArticleTitle"/></span>　<xsl:for-each select="Sentence"><xsl:value-of select="."/></xsl:for-each>
-        </div>
-      </xsl:when>
-      <xsl:otherwise>
-        <span style="font-weight: bold;"><xsl:value-of select="../ParagraphNum"/></span>　<xsl:for-each select="Sentence"><xsl:value-of select="."/></xsl:for-each><br/>
-      </xsl:otherwise>
-    </xsl:choose>
+    <xsl:for-each select="Sentence"><xsl:value-of select="."/></xsl:for-each>
   </xsl:template>
 
   <xsl:template match="Item">
